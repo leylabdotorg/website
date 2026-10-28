@@ -2,7 +2,7 @@
 
 Static site for the Ley Lab (Section of Stem Cell Biology, Division of Oncology,
 Washington University School of Medicine). Built by a small Python script — no
-Jekyll, Ruby, or Node. Modelled on the generator behind `chrismiller.science`.
+Jekyll, Ruby, or Node.
 
 ## Layout
 
@@ -31,7 +31,7 @@ build/                     output — deploy this (git-ignored)
 - **Team roster** — edit `src/data/team.txt` (format documented at the top of the
   file), then `python3 build.py`. Drop member photos in `src/assets/img/`. Each
   member with a `match` string gets an auto-generated `member-<name>.html` page
-  listing that person's publications.
+  listing that person's publications.  ##TODO - definitely a place to add more customization
 - **Preview** — `./serve.sh` (or `python3 build.py --serve`).
 
 ## Updating publications

@@ -1,0 +1,25 @@
+<footer class="site-footer">
+<div class="footer-grid">
+<div>
+<h5>{{ name }}</h5>
+<p>{{ title }}<br>{{ institution }}</p>
+<p><a href="{{ pi_profile }}" target="_blank" rel="noopener">{{ pi_name }}</a>, Principal Investigator</p>
+</div>
+<div>
+<h5>Contact</h5>
+<p>
+Office: {{ phone }}<br>
+Lab: {{ lab_phone }}<br>
+Fax: {{ fax }}<br>
+<a href="mailto:{{ admin_email }}">{{ admin_name }}</a> (administration)
+</p>
+</div>
+<div>
+<h5>Address</h5>
+<p>{{ address_html }}</p>
+</div>
+</div>
+<div class="footer-copyright">
+&copy; {{ year }} {{ name }} &middot; Washington University School of Medicine
+</div>
+</footer>

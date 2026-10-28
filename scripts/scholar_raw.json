@@ -1,0 +1,3908 @@
+{
+ "name": "TJ Ley",
+ "scholar_id": "b9C-eUQAAAAJ",
+ "total_citations": 87218,
+ "hindex": 115,
+ "count": 557,
+ "publications": [
+  {
+   "title": "The immune landscape of cancer",
+   "year": "2018",
+   "venue": "Immunity 48 (4), 812-830. e14, 2018",
+   "num_citations": 6204,
+   "author_pub_id": "b9C-eUQAAAAJ:txeM2kYbVNMC"
+  },
+  {
+   "title": "Mutational landscape and significance across 12 major cancer types",
+   "year": "2013",
+   "venue": "Nature 502 (7471), 333-339, 2013",
+   "num_citations": 5657,
+   "author_pub_id": "b9C-eUQAAAAJ:Tiz5es2fbqcC"
+  },
+  {
+   "title": "Genomic and Epigenomic Landscapes of Adult de novo acute myeloid leukemia",
+   "year": "2013",
+   "venue": "New England Journal of Medicine 368 (22), 2059-2074, 2013",
+   "num_citations": 5637,
+   "author_pub_id": "b9C-eUQAAAAJ:0izLItjtcgwC"
+  },
+  {
+   "title": "Recurring mutations found by sequencing an acute myeloid leukemia genome",
+   "year": "2009",
+   "venue": "New England Journal of Medicine 361 (11), 1058-1066, 2009",
+   "num_citations": 2903,
+   "author_pub_id": "b9C-eUQAAAAJ:JV2RwH3_ST0C"
+  },
+  {
+   "title": "Clonal evolution in relapsed acute myeloid leukaemia revealed by whole-genome sequencing",
+   "year": "2012",
+   "venue": "Nature 481 (7382), 506-510, 2012",
+   "num_citations": 2797,
+   "author_pub_id": "b9C-eUQAAAAJ:nb7KW1ujOQ8C"
+  },
+  {
+   "title": "DNMT3A Mutations in Acute Myeloid Leukemia",
+   "year": "2010",
+   "venue": "New England Journal of Medicine 363 (25), 2424-2433, 2010",
+   "num_citations": 2713,
+   "author_pub_id": "b9C-eUQAAAAJ:1yQoGdGgb4wC"
+  },
+  {
+   "title": "International network of cancer genome projects",
+   "year": "2010",
+   "venue": "Nature 464 (7291), 993, 2010",
+   "num_citations": 2599,
+   "author_pub_id": "b9C-eUQAAAAJ:nrtMV_XWKgEC"
+  },
+  {
+   "title": "Age-related mutations associated with clonal hematopoietic expansion and malignancies",
+   "year": "2014",
+   "venue": "Nature medicine 20 (12), 1472-1478, 2014",
+   "num_citations": 2392,
+   "author_pub_id": "b9C-eUQAAAAJ:KxtntwgDAa4C"
+  },
+  {
+   "title": "The origin and evolution of mutations in acute myeloid leukemia",
+   "year": "2012",
+   "venue": "Cell 150 (2), 264-278, 2012",
+   "num_citations": 2094,
+   "author_pub_id": "b9C-eUQAAAAJ:08ZZubdj9fEC"
+  },
+  {
+   "title": "The genetic basis of early T-cell precursor acute lymphoblastic leukaemia",
+   "year": "2012",
+   "venue": "Nature 481 (7380), 157-163, 2012",
+   "num_citations": 2014,
+   "author_pub_id": "b9C-eUQAAAAJ:738O_yMBCRsC"
+  },
+  {
+   "title": "BreakDancer: an algorithm for high-resolution mapping of genomic structural variation",
+   "year": "2009",
+   "venue": "Nature methods 6 (9), 677-681, 2009",
+   "num_citations": 1817,
+   "author_pub_id": "b9C-eUQAAAAJ:K3LRdlH-MEoC"
+  },
+  {
+   "title": "DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome",
+   "year": "2008",
+   "venue": "Nature 456 (7218), 66-72, 2008",
+   "num_citations": 1706,
+   "author_pub_id": "b9C-eUQAAAAJ:P5F9QuxV20EC"
+  },
+  {
+   "title": "Lymphocyte-mediated cytotoxicity",
+   "year": "2002",
+   "venue": "Annual review of immunology 20 (1), 323-370, 2002",
+   "num_citations": 1659,
+   "author_pub_id": "b9C-eUQAAAAJ:TQgYirikUcIC"
+  },
+  {
+   "title": "Human T regulatory cells can use the perforin pathway to cause autologous target cell death",
+   "year": "2004",
+   "venue": "Immunity 21 (4), 589-601, 2004",
+   "num_citations": 1629,
+   "author_pub_id": "b9C-eUQAAAAJ:5Ul4iDaHHb8C"
+  },
+  {
+   "title": "Granzyme B and perforin are important for regulatory T cell-mediated suppression of tumor clearance",
+   "year": "2007",
+   "venue": "Immunity 27 (4), 635-646, 2007",
+   "num_citations": 1559,
+   "author_pub_id": "b9C-eUQAAAAJ:WbkHhVStYXYC"
+  },
+  {
+   "title": "Genome remodelling in a basal-like breast cancer metastasis and xenograft",
+   "year": "2010",
+   "venue": "Nature 464 (7291), 999-1005, 2010",
+   "num_citations": 1436,
+   "author_pub_id": "b9C-eUQAAAAJ:RGFaLdJalmkC"
+  },
+  {
+   "title": "Whole-genome analysis informs breast cancer response to aromatase inhibition",
+   "year": "2012",
+   "venue": "Nature 486 (7403), 353-360, 2012",
+   "num_citations": 1317,
+   "author_pub_id": "b9C-eUQAAAAJ:WqliGbK-hY8C"
+  },
+  {
+   "title": "Cytotoxic lymphocytes require granzyme B for the rapid induction of DNA fragmentation and apoptosis in allogeneic target cells",
+   "year": "1994",
+   "venue": "Cell 76 (6), 977-987, 1994",
+   "num_citations": 1135,
+   "author_pub_id": "b9C-eUQAAAAJ:7T2F9Uy0os0C"
+  },
+  {
+   "title": "Clonal architecture of secondary acute myeloid leukemia",
+   "year": "2012",
+   "venue": "New England Journal of Medicine 366 (12), 1090-1098, 2012",
+   "num_citations": 1071,
+   "author_pub_id": "b9C-eUQAAAAJ:5ugPr518TE4C"
+  },
+  {
+   "title": "Role of TP53 mutations in the origin and evolution of therapy-related acute myeloid leukaemia",
+   "year": "2015",
+   "venue": "Nature 518 (7540), 552-555, 2015",
+   "num_citations": 1069,
+   "author_pub_id": "b9C-eUQAAAAJ:LPZeul_q3PIC"
+  },
+  {
+   "title": "TP53 and Decitabine in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
+   "year": "2016",
+   "venue": "New England Journal of Medicine 375 (21), 2023-2036, 2016",
+   "num_citations": 1009,
+   "author_pub_id": "b9C-eUQAAAAJ:-_dYPAW6P2MC"
+  },
+  {
+   "title": "Mice lacking neutrophil elastase reveal impaired host defense against gram negative bacterial sepsis",
+   "year": "1998",
+   "venue": "Nature medicine 4 (5), 615-618, 1998",
+   "num_citations": 869,
+   "author_pub_id": "b9C-eUQAAAAJ:8k81kl-MbHgC"
+  },
+  {
+   "title": "Differential expression of granzymes A and B in human cytotoxic lymphocyte subsets and T regulatory cells",
+   "year": "2004",
+   "venue": "Blood 104 (9), 2840-2848, 2004",
+   "num_citations": 837,
+   "author_pub_id": "b9C-eUQAAAAJ:hkOj_22Ku90C"
+  },
+  {
+   "title": "SomaticSniper: identification of somatic point mutations in whole genome sequencing data",
+   "year": "2012",
+   "venue": "Bioinformatics 28 (3), 311-317, 2012",
+   "num_citations": 829,
+   "author_pub_id": "b9C-eUQAAAAJ:5nxA0vEk-isC"
+  },
+  {
+   "title": "Recurrent mutations in the U2AF1 splicing factor in myelodysplastic syndromes",
+   "year": "2012",
+   "venue": "Nature genetics 44 (1), 53-57, 2012",
+   "num_citations": 751,
+   "author_pub_id": "b9C-eUQAAAAJ:xtoqd-5pKcoC"
+  },
+  {
+   "title": "Recurrent DNMT3A mutations in patients with myelodysplastic syndromes",
+   "year": "2011",
+   "venue": "Leukemia 25 (7), 1153-1158, 2011",
+   "num_citations": 751,
+   "author_pub_id": "b9C-eUQAAAAJ:kz9GbA2Ns4gC"
+  },
+  {
+   "title": "Cloning and characterization of a unique elastolytic metalloproteinase produced by human alveolar macrophages.",
+   "year": "1993",
+   "venue": "Journal of Biological Chemistry 268 (32), 23824-23829, 1993",
+   "num_citations": 663,
+   "author_pub_id": "b9C-eUQAAAAJ:BrmTIyaxlBUC"
+  },
+  {
+   "title": "5-Azacytidine Selectively Increases γ-Globin Synthesis in a Patient with β+ Thalassemia",
+   "year": "1982",
+   "venue": "New England Journal of Medicine 307 (24), 1469-1475, 1982",
+   "num_citations": 658,
+   "author_pub_id": "b9C-eUQAAAAJ:7PzlFSSx8tAC"
+  },
+  {
+   "title": "Metalloelastase is required for macrophage-mediated proteolysis and matrix invasion in mice.",
+   "year": "1996",
+   "venue": "Proceedings of the National Academy of Sciences 93 (9), 3942-3946, 1996",
+   "num_citations": 620,
+   "author_pub_id": "b9C-eUQAAAAJ:dshw04ExmUIC"
+  },
+  {
+   "title": "DGIdb: mining the druggable genome",
+   "year": "2013",
+   "venue": "Nature methods 10 (12), 1209-1210, 2013",
+   "num_citations": 616,
+   "author_pub_id": "b9C-eUQAAAAJ:isC4tDSrTZIC"
+  },
+  {
+   "title": "Chemosensitization of acute myeloid leukemia (AML) following mobilization by the CXCR4 antagonist AMD3100",
+   "year": "2009",
+   "venue": "Blood, The Journal of the American Society of Hematology 113 (24), 6206-6214, 2009",
+   "num_citations": 607,
+   "author_pub_id": "b9C-eUQAAAAJ:35r97b3x0nAC"
+  },
+  {
+   "title": "How do cytotoxic lymphocytes kill their targets?",
+   "year": "1998",
+   "venue": "Current opinion in immunology 10 (5), 581-587, 1998",
+   "num_citations": 604,
+   "author_pub_id": "b9C-eUQAAAAJ:XiVPGOgt02cC"
+  },
+  {
+   "title": "SciClone: inferring clonal architecture and tracking the spatial and temporal patterns of tumor evolution",
+   "year": "2014",
+   "venue": "PLoS computational biology 10 (8), e1003665, 2014",
+   "num_citations": 583,
+   "author_pub_id": "b9C-eUQAAAAJ:kuK5TVdYjLIC"
+  },
+  {
+   "title": "The R882H DNMT3A mutation associated with AML dominantly inhibits wild-type DNMT3A by blocking its ability to form active tetramers",
+   "year": "2014",
+   "venue": "Cancer cell 25 (4), 442-454, 2014",
+   "num_citations": 583,
+   "author_pub_id": "b9C-eUQAAAAJ:ZHo1McVdvXMC"
+  },
+  {
+   "title": "Immune escape of relapsed AML cells after allogeneic transplantation",
+   "year": "2018",
+   "venue": "New England Journal of Medicine 379 (24), 2330-2341, 2018",
+   "num_citations": 559,
+   "author_pub_id": "b9C-eUQAAAAJ:DyXnQzXoVgIC"
+  },
+  {
+   "title": "Acquisition of murine NK cell cytotoxicity requires the translation of a pre-existing pool of granzyme B and perforin mRNAs",
+   "year": "2007",
+   "venue": "Immunity 26 (6), 798-811, 2007",
+   "num_citations": 557,
+   "author_pub_id": "b9C-eUQAAAAJ:eMMeJKvmdy0C"
+  },
+  {
+   "title": "Dipeptidyl peptidase I is required for the processing and activation of granzymes A and B in vivo",
+   "year": "1999",
+   "venue": "Proceedings of the National Academy of Sciences 96 (15), 8627-8632, 1999",
+   "num_citations": 543,
+   "author_pub_id": "b9C-eUQAAAAJ:q3oQSFYPqjQC"
+  },
+  {
+   "title": "The pediatric cancer genome project",
+   "year": "2012",
+   "venue": "Nature genetics 44 (6), 619-622, 2012",
+   "num_citations": 502,
+   "author_pub_id": "b9C-eUQAAAAJ:eq2jaN3J8jMC"
+  },
+  {
+   "title": "Functional heterogeneity of genetically defined subclones in acute myeloid leukemia",
+   "year": "2014",
+   "venue": "Cancer cell 25 (3), 379-392, 2014",
+   "num_citations": 497,
+   "author_pub_id": "b9C-eUQAAAAJ:_kc_bZDykSQC"
+  },
+  {
+   "title": "Long-range disruption of gene expression by a selectable marker cassette",
+   "year": "1996",
+   "venue": "Proceedings of the National Academy of Sciences 93 (23), 13090-13095, 1996",
+   "num_citations": 479,
+   "author_pub_id": "b9C-eUQAAAAJ:SpbeaW3--B0C"
+  },
+  {
+   "title": "The physician-scientist career pipeline in 2005: build it, and they will come",
+   "year": "2005",
+   "venue": "Jama 294 (11), 1343-1351, 2005",
+   "num_citations": 478,
+   "author_pub_id": "b9C-eUQAAAAJ:EkHepimYqZsC"
+  },
+  {
+   "title": "Altered myeloid development and acute leukemia in transgenic mice expressing PML-RARα under control of cathepsin G regulatory sequences",
+   "year": "1997",
+   "venue": "Blood, The Journal of the American Society of Hematology 89 (2), 376-387, 1997",
+   "num_citations": 478,
+   "author_pub_id": "b9C-eUQAAAAJ:p2g8aNsByqUC"
+  },
+  {
+   "title": "Development of leukemia in mice transgenic for the tax gene of human T-cell leukemia virus type I.",
+   "year": "1995",
+   "venue": "Proceedings of the National Academy of Sciences 92 (4), 1057-1061, 1995",
+   "num_citations": 448,
+   "author_pub_id": "b9C-eUQAAAAJ:HbR8gkJAVGIC"
+  },
+  {
+   "title": "Pan-cancer analysis of whole genomes.",
+   "year": "2020",
+   "venue": "Nature 578 (DKFZ-2020-01051), 82-93, 2020",
+   "num_citations": 442,
+   "author_pub_id": "b9C-eUQAAAAJ:T8_be82Iz5gC"
+  },
+  {
+   "title": "Association between mutation clearance after induction therapy and outcomes in acute myeloid leukemia",
+   "year": "2015",
+   "venue": "Jama 314 (8), 811-822, 2015",
+   "num_citations": 434,
+   "author_pub_id": "b9C-eUQAAAAJ:M3NEmzRMIkIC"
+  },
+  {
+   "title": "Targeted deletion of 5'HS2 of the murine beta-globin LCR reveals that it is not essential for proper regulation of the beta-globin locus.",
+   "year": "1995",
+   "venue": "Genes & development 9 (18), 2203-2213, 1995",
+   "num_citations": 429,
+   "author_pub_id": "b9C-eUQAAAAJ:SdhP9T11ey4C"
+  },
+  {
+   "title": "PML/RARα and FLT3-ITD induce an APL-like disease in a mouse model",
+   "year": "2002",
+   "venue": "Proceedings of the National Academy of Sciences 99 (12), 8283-8288, 2002",
+   "num_citations": 428,
+   "author_pub_id": "b9C-eUQAAAAJ:4JMBOYKVnBMC"
+  },
+  {
+   "title": "Patterns and functional implications of rare germline variants across 12 cancer types",
+   "year": "2015",
+   "venue": "Nature communications 6 (1), 10086, 2015",
+   "num_citations": 361,
+   "author_pub_id": "b9C-eUQAAAAJ:cFHS6HbyZ2cC"
+  },
+  {
+   "title": "Clonal diversity of recurrently mutated genes in myelodysplastic syndromes",
+   "year": "2013",
+   "venue": "Leukemia 27 (6), 1275-1282, 2013",
+   "num_citations": 353,
+   "author_pub_id": "b9C-eUQAAAAJ:NaGl4SEjCO4C"
+  },
+  {
+   "title": "An Inv (16)(p13. 3q24. 3)-encoded CBFA2T3-GLIS2 fusion protein defines an aggressive subtype of pediatric acute megakaryoblastic leukemia",
+   "year": "2012",
+   "venue": "Cancer cell 22 (5), 683-697, 2012",
+   "num_citations": 340,
+   "author_pub_id": "b9C-eUQAAAAJ:WZBGuue-350C"
+  },
+  {
+   "title": "The gender gap in NIH grant applications",
+   "year": "2008",
+   "venue": "Science 322 (5907), 1472-1474, 2008",
+   "num_citations": 330,
+   "author_pub_id": "b9C-eUQAAAAJ:KUbvn5osdkgC"
+  },
+  {
+   "title": "Genome sequencing as an alternative to cytogenetic analysis in myeloid cancers",
+   "year": "2021",
+   "venue": "New England Journal of Medicine 384 (10), 924-935, 2021",
+   "num_citations": 324,
+   "author_pub_id": "b9C-eUQAAAAJ:nqdriD65xNoC"
+  },
+  {
+   "title": "5-Azacytidine increases gamma-globin synthesis and reduces the proportion of dense cells in patients with sickle cell anemia",
+   "year": "1983",
+   "venue": "",
+   "num_citations": 324,
+   "author_pub_id": "b9C-eUQAAAAJ:tKAzc9rXhukC"
+  },
+  {
+   "title": "Use of whole-genome sequencing to diagnose a cryptic fusion oncogene",
+   "year": "2011",
+   "venue": "Jama 305 (15), 1577-1584, 2011",
+   "num_citations": 319,
+   "author_pub_id": "b9C-eUQAAAAJ:M7yex6snE4oC"
+  },
+  {
+   "title": "Acquired copy number alterations in adult acute myeloid leukemia genomes",
+   "year": "2009",
+   "venue": "Proceedings of the National Academy of Sciences 106 (31), 12950-12955, 2009",
+   "num_citations": 309,
+   "author_pub_id": "b9C-eUQAAAAJ:70eg2SAEIzsC"
+  },
+  {
+   "title": "Genomic analysis of germ line and somatic variants in familial myelodysplasia/acute myeloid leukemia",
+   "year": "2015",
+   "venue": "Blood, The Journal of the American Society of Hematology 126 (22), 2484-2490, 2015",
+   "num_citations": 304,
+   "author_pub_id": "b9C-eUQAAAAJ:kzcrU_BdoSEC"
+  },
+  {
+   "title": "The physician‐scientist: career issues and challenges at the year 2000",
+   "year": "2000",
+   "venue": "The FASEB Journal 14 (2), 221-230, 2000",
+   "num_citations": 303,
+   "author_pub_id": "b9C-eUQAAAAJ:tkaPQYYpVKoC"
+  },
+  {
+   "title": "Somatic mutations and germline sequence variants in the expressed tyrosine kinase genes of patients with de novo acute myeloid leukemia",
+   "year": "2008",
+   "venue": "Blood, The Journal of the American Society of Hematology 111 (9), 4797-4808, 2008",
+   "num_citations": 302,
+   "author_pub_id": "b9C-eUQAAAAJ:e_rmSamDkqQC"
+  },
+  {
+   "title": "Sudden death among patients with acute promyelocytic leukemia treated with arsenic trioxide",
+   "year": "2001",
+   "venue": "Blood, The Journal of the American Society of Hematology 98 (2), 266-271, 2001",
+   "num_citations": 298,
+   "author_pub_id": "b9C-eUQAAAAJ:tS2w5q8j5-wC"
+  },
+  {
+   "title": "DFF45/ICAD can be directly processed by granzyme B during the induction of apoptosis",
+   "year": "2000",
+   "venue": "Immunity 12 (6), 621-632, 2000",
+   "num_citations": 284,
+   "author_pub_id": "b9C-eUQAAAAJ:_Qo2XoVZTnwC"
+  },
+  {
+   "title": "CpG island hypermethylation mediated by DNMT3A is a consequence of AML progression",
+   "year": "2017",
+   "venue": "Cell 168 (5), 801-816. e13, 2017",
+   "num_citations": 281,
+   "author_pub_id": "b9C-eUQAAAAJ:3fE2CSJIrl8C"
+  },
+  {
+   "title": "Natural killer and lymphokine-activated killer cells require granzyme B for the rapid induction of apoptosis in susceptible target cells.",
+   "year": "1995",
+   "venue": "Proceedings of the National Academy of Sciences 92 (12), 5679-5683, 1995",
+   "num_citations": 280,
+   "author_pub_id": "b9C-eUQAAAAJ:4TOpqqG69KYC"
+  },
+  {
+   "title": "Perforin/granzyme-dependent and independent mechanisms are both important for the development of graft-versus-host disease after murine bone marrow transplantation.",
+   "year": "1997",
+   "venue": "The Journal of clinical investigation 100 (4), 904-911, 1997",
+   "num_citations": 272,
+   "author_pub_id": "b9C-eUQAAAAJ:PoWvk5oyLR8C"
+  },
+  {
+   "title": "Background mutations in parental cells account for most of the genetic heterogeneity of induced pluripotent stem cells",
+   "year": "2012",
+   "venue": "Cell stem cell 10 (5), 570-582, 2012",
+   "num_citations": 269,
+   "author_pub_id": "b9C-eUQAAAAJ:35N4QoGY0k4C"
+  },
+  {
+   "title": "A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing",
+   "year": "2019",
+   "venue": "Nature communications 10 (1), 3660, 2019",
+   "num_citations": 264,
+   "author_pub_id": "b9C-eUQAAAAJ:D_tqNUsBuKoC"
+  },
+  {
+   "title": "Papillon-Lefevre syndrome: correlating the molecular, cellular, and clinical consequences of cathepsin C/dipeptidyl peptidase I deficiency in humans",
+   "year": "2004",
+   "venue": "The Journal of Immunology 173 (12), 7277-7281, 2004",
+   "num_citations": 264,
+   "author_pub_id": "b9C-eUQAAAAJ:t7zJ5fGR-2UC"
+  },
+  {
+   "title": "A high-resolution map of segmental DNA copy number variation in the mouse genome",
+   "year": "2007",
+   "venue": "PLoS genetics 3 (1), e3, 2007",
+   "num_citations": 263,
+   "author_pub_id": "b9C-eUQAAAAJ:YFjsv_pBGBYC"
+  },
+  {
+   "title": "Dipeptidyl peptidase I is essential for activation of mast cell chymases, but not tryptases, in mice",
+   "year": "2001",
+   "venue": "Journal of Biological Chemistry 276 (21), 18551-18556, 2001",
+   "num_citations": 262,
+   "author_pub_id": "b9C-eUQAAAAJ:i2xiXl-TujoC"
+  },
+  {
+   "title": "Optimizing cancer genome sequencing and analysis",
+   "year": "2015",
+   "venue": "Cell systems 1 (3), 210-223, 2015",
+   "num_citations": 259,
+   "author_pub_id": "b9C-eUQAAAAJ:ML0RJ9NH7IQC"
+  },
+  {
+   "title": "YB-1 is important for late-stage embryonic development, optimal cellular stress responses, and the prevention of premature senescence",
+   "year": "2005",
+   "venue": "Molecular and cellular biology 25 (11), 4625-4637, 2005",
+   "num_citations": 247,
+   "author_pub_id": "b9C-eUQAAAAJ:MXK_kJrjxJIC"
+  },
+  {
+   "title": "Molecular cloning, chromosomal localization, and bacterial expression of a murine macrophage metalloelastase.",
+   "year": "1992",
+   "venue": "Journal of Biological Chemistry 267 (7), 4664-4671, 1992",
+   "num_citations": 242,
+   "author_pub_id": "b9C-eUQAAAAJ:mB3voiENLucC"
+  },
+  {
+   "title": "The orphan granzymes of humans and mice",
+   "year": "2003",
+   "venue": "Current opinion in immunology 15 (5), 544-552, 2003",
+   "num_citations": 231,
+   "author_pub_id": "b9C-eUQAAAAJ:VLnqNzywnoUC"
+  },
+  {
+   "title": "Cellular stressors contribute to the expansion of hematopoietic clones of varying leukemic potential",
+   "year": "2018",
+   "venue": "Nature communications 9 (1), 455, 2018",
+   "num_citations": 229,
+   "author_pub_id": "b9C-eUQAAAAJ:YsrPvlHIBpEC"
+  },
+  {
+   "title": "Granzyme A initiates an alternative pathway for granule-mediated apoptosis",
+   "year": "1999",
+   "venue": "Immunity 10 (5), 595-605, 1999",
+   "num_citations": 225,
+   "author_pub_id": "b9C-eUQAAAAJ:JoZmwDi-zQgC"
+  },
+  {
+   "title": "Visualizing tumor evolution with the fishplot package for R",
+   "year": "2016",
+   "venue": "BMC genomics 17 (1), 880, 2016",
+   "num_citations": 222,
+   "author_pub_id": "b9C-eUQAAAAJ:5qfkUJPXOUwC"
+  },
+  {
+   "title": "Identification of a novel TP53 cancer susceptibility mutation through whole-genome sequencing of a patient with therapy-related AML",
+   "year": "2011",
+   "venue": "Jama 305 (15), 1568-1576, 2011",
+   "num_citations": 222,
+   "author_pub_id": "b9C-eUQAAAAJ:2KloaMYe4IUC"
+  },
+  {
+   "title": "Cleavage of CPP32 by granzyme B represents a critical role for granzyme B in the induction of target cell DNA fragmentation",
+   "year": "1996",
+   "venue": "Journal of Biological Chemistry 271 (36), 21709-21712, 1996",
+   "num_citations": 212,
+   "author_pub_id": "b9C-eUQAAAAJ:0EnyYjriUFMC"
+  },
+  {
+   "title": "Analysis of mice containing a targeted deletion of β-globin locus control region 5′ hypersensitive site 3",
+   "year": "1996",
+   "venue": "Molecular and Cellular Biology 16 (6), 2906-2912, 1996",
+   "num_citations": 209,
+   "author_pub_id": "b9C-eUQAAAAJ:MLfJN-KU85MC"
+  },
+  {
+   "title": "Differences in human α-, β-and δ-globin gene expression in monkey kidney cells",
+   "year": "1982",
+   "venue": "Cell 30 (1), 173-183, 1982",
+   "num_citations": 194,
+   "author_pub_id": "b9C-eUQAAAAJ:-f6ydRqryjwC"
+  },
+  {
+   "title": "Genomic impact of transient low-dose decitabine treatment on primary AML cells",
+   "year": "2013",
+   "venue": "Blood, The Journal of the American Society of Hematology 121 (9), 1633-1643, 2013",
+   "num_citations": 191,
+   "author_pub_id": "b9C-eUQAAAAJ:XiSMed-E-HIC"
+  },
+  {
+   "title": "Advances in thalassemia research",
+   "year": "1984",
+   "venue": "Blood 63 (4), 738-758, 1984",
+   "num_citations": 189,
+   "author_pub_id": "b9C-eUQAAAAJ:qUcmZB5y_30C"
+  },
+  {
+   "title": "Inducible transcription of five globin genes in K562 human leukemia cells.",
+   "year": "1983",
+   "venue": "Proceedings of the National Academy of Sciences 80 (18), 5515-5519, 1983",
+   "num_citations": 184,
+   "author_pub_id": "b9C-eUQAAAAJ:uWiczbcajpAC"
+  },
+  {
+   "title": "High-penetrance mouse model of acute promyelocytic leukemia with very low levels of PML-RARα expression",
+   "year": "2003",
+   "venue": "Blood 102 (5), 1857-1865, 2003",
+   "num_citations": 180,
+   "author_pub_id": "b9C-eUQAAAAJ:u_35RYKgDlwC"
+  },
+  {
+   "title": "Next-generation sequencing identifies the natural killer cell microRNA transcriptome",
+   "year": "2010",
+   "venue": "Genome research 20 (11), 1590-1604, 2010",
+   "num_citations": 179,
+   "author_pub_id": "b9C-eUQAAAAJ:NJ774b8OgUMC"
+  },
+  {
+   "title": "An enhancer element lies 3′ to the human A gamma globin gene.",
+   "year": "1987",
+   "venue": "The EMBO journal 6 (10), 2997-3004, 1987",
+   "num_citations": 178,
+   "author_pub_id": "b9C-eUQAAAAJ:Mojj43d5GZwC"
+  },
+  {
+   "title": "U2AF1 mutations alter sequence specificity of pre-mRNA binding and splicing",
+   "year": "2015",
+   "venue": "Leukemia 29 (4), 909-917, 2015",
+   "num_citations": 176,
+   "author_pub_id": "b9C-eUQAAAAJ:_xSYboBqXhAC"
+  },
+  {
+   "title": "Neutrophil elastase cleaves PML-RARα and is important for the development of acute promyelocytic leukemia in mice",
+   "year": "2003",
+   "venue": "cell 115 (3), 305-318, 2003",
+   "num_citations": 173,
+   "author_pub_id": "b9C-eUQAAAAJ:O3NaXMp0MMsC"
+  },
+  {
+   "title": "RNA processing errors in patients with beta-thalassemia.",
+   "year": "1982",
+   "venue": "Proceedings of the National Academy of Sciences 79 (15), 4775-4779, 1982",
+   "num_citations": 172,
+   "author_pub_id": "b9C-eUQAAAAJ:hMsQuOkrut0C"
+  },
+  {
+   "title": "High throughput digital quantification of mRNA abundance in primary human acute myeloid leukemia samples",
+   "year": "2009",
+   "venue": "The Journal of clinical investigation 119 (6), 1714-1726, 2009",
+   "num_citations": 161,
+   "author_pub_id": "b9C-eUQAAAAJ:EUQCXRtRnyEC"
+  },
+  {
+   "title": "Co-evolution of tumor and immune cells during progression of multiple myeloma",
+   "year": "2021",
+   "venue": "Nature communications 12 (1), 2559, 2021",
+   "num_citations": 160,
+   "author_pub_id": "b9C-eUQAAAAJ:pQTOvowfQioC"
+  },
+  {
+   "title": "Epigenomic analysis of the HOX gene loci reveals mechanisms that may control canonical expression patterns in AML and normal hematopoietic cells",
+   "year": "2015",
+   "venue": "Leukemia 29 (6), 1279-1289, 2015",
+   "num_citations": 159,
+   "author_pub_id": "b9C-eUQAAAAJ:ZuybSZzF8UAC"
+  },
+  {
+   "title": "Clonal architecture of secondary acute myeloid leukemia defined by single-cell sequencing",
+   "year": "2014",
+   "venue": "PLoS genetics 10 (7), e1004462, 2014",
+   "num_citations": 155,
+   "author_pub_id": "b9C-eUQAAAAJ:RHpTSmoSYBkC"
+  },
+  {
+   "title": "Granzyme B can cause mitochondrial depolarization and cell death in the absence of BID, BAX, and BAK",
+   "year": "2001",
+   "venue": "Proceedings of the National Academy of Sciences 98 (26), 14985-14990, 2001",
+   "num_citations": 155,
+   "author_pub_id": "b9C-eUQAAAAJ:sSrBHYA8nusC"
+  },
+  {
+   "title": "Identification of somatic JAK1 mutations in patients with acute myeloid leukemia",
+   "year": "2008",
+   "venue": "Blood, The Journal of the American Society of Hematology 111 (9), 4809-4812, 2008",
+   "num_citations": 154,
+   "author_pub_id": "b9C-eUQAAAAJ:ILKRHgRFtOwC"
+  },
+  {
+   "title": "A bcr-3 isoform of RARα-PML potentiates the development of PML-RARα-driven acute promyelocytic leukemia",
+   "year": "1999",
+   "venue": "Proceedings of the National Academy of Sciences 96 (26), 15103-15108, 1999",
+   "num_citations": 154,
+   "author_pub_id": "b9C-eUQAAAAJ:yD5IFk8b50cC"
+  },
+  {
+   "title": "Conservation of the primary structure, organization, and function of the human and mouse beta-globin locus-activating regions.",
+   "year": "1990",
+   "venue": "Proceedings of the National Academy of Sciences 87 (19), 7693-7697, 1990",
+   "num_citations": 153,
+   "author_pub_id": "b9C-eUQAAAAJ:Wp0gIr-vW9MC"
+  },
+  {
+   "title": "Hydroxyurea induction of hemoglobin F production in sickle cell disease: relationship between cytotoxicity and F cell production",
+   "year": "1986",
+   "venue": "",
+   "num_citations": 152,
+   "author_pub_id": "b9C-eUQAAAAJ:vV6vV6tmYwMC"
+  },
+  {
+   "title": "Bam-readcount-rapid generation of basepair-resolution sequence metrics",
+   "year": "2022",
+   "venue": "Journal of Open Source Software 7 (69), 3722, 2022",
+   "num_citations": 151,
+   "author_pub_id": "b9C-eUQAAAAJ:OzeSX8-yOCQC"
+  },
+  {
+   "title": "The role of granzyme B in murine models of acute graft-versus-host disease and graft rejection",
+   "year": "1996",
+   "venue": "",
+   "num_citations": 150,
+   "author_pub_id": "b9C-eUQAAAAJ:9vf0nzSNQJEC"
+  },
+  {
+   "title": "Normal neutrophil function in cathepsin G-deficient mice",
+   "year": "1999",
+   "venue": "Blood, The Journal of the American Society of Hematology 94 (12), 4282-4293, 1999",
+   "num_citations": 149,
+   "author_pub_id": "b9C-eUQAAAAJ:4MWp96NkSFoC"
+  },
+  {
+   "title": "Mutation clearance after transplantation for myelodysplastic syndrome",
+   "year": "2018",
+   "venue": "New England Journal of Medicine 379 (11), 1028-1041, 2018",
+   "num_citations": 147,
+   "author_pub_id": "b9C-eUQAAAAJ:silx2ntsSuwC"
+  },
+  {
+   "title": "Mcl1 haploinsufficiency protects mice from Myc-induced acute myeloid leukemia",
+   "year": "2010",
+   "venue": "The Journal of clinical investigation 120 (6), 2109-2118, 2010",
+   "num_citations": 146,
+   "author_pub_id": "b9C-eUQAAAAJ:IWHjjKOFINEC"
+  },
+  {
+   "title": "A proteomic approach for the discovery of protease substrates",
+   "year": "2004",
+   "venue": "Proceedings of the National Academy of Sciences 101 (32), 11785-11790, 2004",
+   "num_citations": 146,
+   "author_pub_id": "b9C-eUQAAAAJ:KlAtU1dfN6UC"
+  },
+  {
+   "title": "Cell death induced by granzyme C",
+   "year": "2003",
+   "venue": "Blood, The Journal of the American Society of Hematology 101 (8), 3093-3101, 2003",
+   "num_citations": 145,
+   "author_pub_id": "b9C-eUQAAAAJ:evX43VCCuoAC"
+  },
+  {
+   "title": "Genomic organization and chromosomal localization of the human cathepsin G gene",
+   "year": "1989",
+   "venue": "Journal of Biological Chemistry 264 (23), 13412-13419, 1989",
+   "num_citations": 142,
+   "author_pub_id": "b9C-eUQAAAAJ:PELIpwtuRlgC"
+  },
+  {
+   "title": "Granzyme B and the downstream granzymes C and/or F are important for cytotoxic lymphocyte functions",
+   "year": "2005",
+   "venue": "The Journal of Immunology 174 (4), 2124-2131, 2005",
+   "num_citations": 140,
+   "author_pub_id": "b9C-eUQAAAAJ:olpn-zPbct0C"
+  },
+  {
+   "title": "Diverse roles of macrophage matrix metalloproteinases in tissue destruction and tumor growth",
+   "year": "1999",
+   "venue": "Thrombosis and haemostasis 82 (08), 846-849, 1999",
+   "num_citations": 137,
+   "author_pub_id": "b9C-eUQAAAAJ:3lUAU8Oskd0C"
+  },
+  {
+   "title": "Rapid expansion of preexisting nonleukemic hematopoietic clones frequently follows induction therapy for de novo AML",
+   "year": "2016",
+   "venue": "Blood, The Journal of the American Society of Hematology 127 (7), 893-897, 2016",
+   "num_citations": 133,
+   "author_pub_id": "b9C-eUQAAAAJ:uc_IGeMz5qoC"
+  },
+  {
+   "title": "Dynamic changes in the clonal structure of MDS and AML in response to epigenetic therapy",
+   "year": "2017",
+   "venue": "Leukemia 31 (4), 872-881, 2017",
+   "num_citations": 132,
+   "author_pub_id": "b9C-eUQAAAAJ:FAceZFleit8C"
+  },
+  {
+   "title": "Acquired, nonrandom chromosomal abnormalities associated with the development of acute promyelocytic leukemia in transgenic mice",
+   "year": "2000",
+   "venue": "Proceedings of the National Academy of Sciences 97 (24), 13306-13311, 2000",
+   "num_citations": 129,
+   "author_pub_id": "b9C-eUQAAAAJ:M05iB0D1s5AC"
+  },
+  {
+   "title": "Long non-coding RNA RAMS11 promotes metastatic colorectal cancer progression",
+   "year": "2020",
+   "venue": "Nature communications 11 (1), 2156, 2020",
+   "num_citations": 126,
+   "author_pub_id": "b9C-eUQAAAAJ:mel-f30kHHgC"
+  },
+  {
+   "title": "Proteomic and phosphoproteomic landscapes of acute myeloid leukemia",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (13), 1533-1548, 2022",
+   "num_citations": 124,
+   "author_pub_id": "b9C-eUQAAAAJ:Y0-TYkg6YM4C"
+  },
+  {
+   "title": "Removing career obstacles for young physician-scientists--loan-repayment programs",
+   "year": "2002",
+   "venue": "The New England journal of medicine 346 (5), 368, 2002",
+   "num_citations": 124,
+   "author_pub_id": "b9C-eUQAAAAJ:AXPGKjj_ei8C"
+  },
+  {
+   "title": "Beta O-39 thalassemia gene: a premature termination codon causes beta-mRNA deficiency without affecting cytoplasmic beta-mRNA stability",
+   "year": "1984",
+   "venue": "",
+   "num_citations": 118,
+   "author_pub_id": "b9C-eUQAAAAJ:aqlVkmm33-oC"
+  },
+  {
+   "title": "Interleukin 12 stimulates IFN-γ–mediated inhibition of tumor-induced regulatory T-cell proliferation and enhances tumor clearance",
+   "year": "2009",
+   "venue": "Cancer research 69 (22), 8700-8709, 2009",
+   "num_citations": 117,
+   "author_pub_id": "b9C-eUQAAAAJ:ye4kPcJQO24C"
+  },
+  {
+   "title": "Transgenic analysis of a 100-kb human β-globin cluster–containing DNA fragment propagated as a bacterial artificial chromosome",
+   "year": "1999",
+   "venue": "Blood, The Journal of the American Society of Hematology 94 (9), 3178-3184, 1999",
+   "num_citations": 115,
+   "author_pub_id": "b9C-eUQAAAAJ:fQNAKQ3IYiAC"
+  },
+  {
+   "title": "fgr proto-oncogene mRNA induced in B lymphocytes by Epstein–Barr virus infection",
+   "year": "1986",
+   "venue": "Nature 319 (6050), 238-240, 1986",
+   "num_citations": 115,
+   "author_pub_id": "b9C-eUQAAAAJ:ldfaerwXgEUC"
+  },
+  {
+   "title": "The human mast cell chymase gene (CMA1): mapping to the cathepsin G/granzyme gene cluster and lineage-restricted expression",
+   "year": "1993",
+   "venue": "Genomics 15 (3), 614-620, 1993",
+   "num_citations": 114,
+   "author_pub_id": "b9C-eUQAAAAJ:N5tVd3kTz84C"
+  },
+  {
+   "title": "Nucleotide sequence and regulation of a human 90-kDa heat shock protein gene",
+   "year": "1989",
+   "venue": "Journal of Biological Chemistry 264 (25), 15006-15011, 1989",
+   "num_citations": 114,
+   "author_pub_id": "b9C-eUQAAAAJ:XD-gHx7UXLsC"
+  },
+  {
+   "title": "Haploinsufficiency for DNA methyltransferase 3A predisposes hematopoietic cells to myeloid malignancies",
+   "year": "2017",
+   "venue": "The Journal of clinical investigation 127 (10), 3657-3674, 2017",
+   "num_citations": 111,
+   "author_pub_id": "b9C-eUQAAAAJ:9pM33mqn1YgC"
+  },
+  {
+   "title": "Sequencing a mouse acute promyelocytic leukemia genome reveals genetic events relevant for disease progression",
+   "year": "2011",
+   "venue": "The Journal of clinical investigation 121 (4), 1445-1455, 2011",
+   "num_citations": 111,
+   "author_pub_id": "b9C-eUQAAAAJ:hFOr9nPyWt4C"
+  },
+  {
+   "title": "Distinct patterns of mutations occurring in de novo AML versus AML arising in the setting of severe congenital neutropenia",
+   "year": "2007",
+   "venue": "Blood, The Journal of the American Society of Hematology 110 (5), 1648-1655, 2007",
+   "num_citations": 109,
+   "author_pub_id": "b9C-eUQAAAAJ:V3AGJWp-ZtQC"
+  },
+  {
+   "title": "\" Silent\" nucleotide substitution in a beta+-thalassemia globin gene activates splice site in coding sequence RNA.",
+   "year": "1983",
+   "venue": "Proceedings of the National Academy of Sciences 80 (8), 2318-2322, 1983",
+   "num_citations": 109,
+   "author_pub_id": "b9C-eUQAAAAJ:3htObqc8RwsC"
+  },
+  {
+   "title": "Reduced PU. 1 expression causes myeloid progenitor expansion and increased leukemia penetrance in mice expressing PML-RARα",
+   "year": "2005",
+   "venue": "Proceedings of the National Academy of Sciences 102 (35), 12513-12518, 2005",
+   "num_citations": 106,
+   "author_pub_id": "b9C-eUQAAAAJ:dfsIfKJdRG4C"
+  },
+  {
+   "title": "Clonal architectures and driver mutations in metastatic melanomas",
+   "year": "2014",
+   "venue": "PloS one 9 (11), e111153, 2014",
+   "num_citations": 103,
+   "author_pub_id": "b9C-eUQAAAAJ:lmc2jWPfTJgC"
+  },
+  {
+   "title": "The clonal evolution of metastatic colorectal cancer",
+   "year": "2020",
+   "venue": "Science advances 6 (24), eaay9691, 2020",
+   "num_citations": 101,
+   "author_pub_id": "b9C-eUQAAAAJ:YB4bud6kWLwC"
+  },
+  {
+   "title": "Physician‐scientists in the United States at 2020: trends and concerns",
+   "year": "2022",
+   "venue": "The FASEB Journal 36 (5), e22253, 2022",
+   "num_citations": 100,
+   "author_pub_id": "b9C-eUQAAAAJ:_tF6a-HnqWAC"
+  },
+  {
+   "title": "Cold shock domain family members YB-1 and MSY4 share essential functions during murine embryogenesis",
+   "year": "2006",
+   "venue": "Molecular and cellular biology 26 (22), 8410-8417, 2006",
+   "num_citations": 100,
+   "author_pub_id": "b9C-eUQAAAAJ:epqYDVWIO7EC"
+  },
+  {
+   "title": "5-Azacytidine acts directly on both erythroid precursors and progenitors to increase production of fetal hemoglobin.",
+   "year": "1985",
+   "venue": "The Journal of clinical investigation 75 (2), 547-557, 1985",
+   "num_citations": 100,
+   "author_pub_id": "b9C-eUQAAAAJ:XoXfffV-tXoC"
+  },
+  {
+   "title": "Developmental regulation of the human cathepsin G gene in myelomonocytic cells.",
+   "year": "1990",
+   "venue": "Journal of Biological Chemistry 265 (3), 1524-1530, 1990",
+   "num_citations": 96,
+   "author_pub_id": "b9C-eUQAAAAJ:j8SEvjWlNXcC"
+  },
+  {
+   "title": "Genomic landscapes and clonality of de novo AML",
+   "year": "2013",
+   "venue": "N Engl J Med 369 (15), 1472-1473, 2013",
+   "num_citations": 94,
+   "author_pub_id": "b9C-eUQAAAAJ:tHtfpZlB6tUC"
+  },
+  {
+   "title": "Granzyme B plays a critical role in cytotoxic lymphocyte‐induced apoptosis",
+   "year": "1995",
+   "venue": "Immunological reviews 146 (1), 211-221, 1995",
+   "num_citations": 94,
+   "author_pub_id": "b9C-eUQAAAAJ:1qzjygNMrQYC"
+  },
+  {
+   "title": "A human protein containing a “cold shock” domain binds specifically to H-DNA upstream from the human gamma-globin genes.",
+   "year": "1994",
+   "venue": "Journal of Biological Chemistry 269 (19), 14130-14139, 1994",
+   "num_citations": 94,
+   "author_pub_id": "b9C-eUQAAAAJ:uWQEDVKXjbEC"
+  },
+  {
+   "title": "Tissue-Specific Expression and Developmental Regulation of the Human fgr Proto-Oncogene",
+   "year": "1989",
+   "venue": "Molecular and cellular biology 9 (1), 92-99, 1989",
+   "num_citations": 94,
+   "author_pub_id": "b9C-eUQAAAAJ:NhqRSupF_l8C"
+  },
+  {
+   "title": "Function of normal and mutated γ-globin gene promoters in electroporated K562 erythroleukemia cells",
+   "year": "1990",
+   "venue": "Blood 75 (4), 990-999, 1990",
+   "num_citations": 87,
+   "author_pub_id": "b9C-eUQAAAAJ:UxriW0iASnsC"
+  },
+  {
+   "title": "Complete characterization of the microRNAome in a patient with acute myeloid leukemia",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 116 (24), 5316-5326, 2010",
+   "num_citations": 84,
+   "author_pub_id": "b9C-eUQAAAAJ:1sJd4Hv_s6UC"
+  },
+  {
+   "title": "Latent herpesvirus infection arms NK cells",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 115 (22), 4377-4383, 2010",
+   "num_citations": 84,
+   "author_pub_id": "b9C-eUQAAAAJ:2P1L_qKh6hAC"
+  },
+  {
+   "title": "Neutrophil elastase is important for PML-retinoic acid receptor α activities in early myeloid cells",
+   "year": "2005",
+   "venue": "Molecular and cellular biology 25 (1), 23-33, 2005",
+   "num_citations": 84,
+   "author_pub_id": "b9C-eUQAAAAJ:oNZyr7d5Mn4C"
+  },
+  {
+   "title": "Production of fully active recombinant murine granzyme B in yeast",
+   "year": "1998",
+   "venue": "Journal of Biological Chemistry 273 (3), 1629-1633, 1998",
+   "num_citations": 84,
+   "author_pub_id": "b9C-eUQAAAAJ:vbGhcppDl1QC"
+  },
+  {
+   "title": "Molecular cloning, chromosomal localization, and expression of murine dipeptidyl peptidase I",
+   "year": "1997",
+   "venue": "Journal of Biological Chemistry 272 (16), 10695-10703, 1997",
+   "num_citations": 83,
+   "author_pub_id": "b9C-eUQAAAAJ:eflP2zaiRacC"
+  },
+  {
+   "title": "Functional properties of the beta-globin locus control region in K562 erythroleukemia cells",
+   "year": "1991",
+   "venue": "",
+   "num_citations": 82,
+   "author_pub_id": "b9C-eUQAAAAJ:dhFuZR0502QC"
+  },
+  {
+   "title": "Transfusion haemosiderosis and chelation therapy",
+   "year": "1982",
+   "venue": "Clinics in Haematology 11 (2), 437-464, 1982",
+   "num_citations": 79,
+   "author_pub_id": "b9C-eUQAAAAJ:ns9cj8rnVeAC"
+  },
+  {
+   "title": "BreakFusion: targeted assembly-based identification of gene fusions in whole transcriptome paired-end sequencing data",
+   "year": "2012",
+   "venue": "Bioinformatics 28 (14), 1923-1924, 2012",
+   "num_citations": 77,
+   "author_pub_id": "b9C-eUQAAAAJ:pqnbT2bcN3wC"
+  },
+  {
+   "title": "Subclones dominate at MDS progression following allogeneic hematopoietic cell transplant",
+   "year": "2018",
+   "venue": "JCI insight 3 (5), e98962, 2018",
+   "num_citations": 75,
+   "author_pub_id": "b9C-eUQAAAAJ:raTqNPD5sRQC"
+  },
+  {
+   "title": "Oncogenic K-ras cooperates with PML-RARα to induce an acute promyelocytic leukemia-like disease",
+   "year": "2006",
+   "venue": "Blood 108 (5), 1708-1715, 2006",
+   "num_citations": 75,
+   "author_pub_id": "b9C-eUQAAAAJ:QIV2ME_5wuYC"
+  },
+  {
+   "title": "Seed versus soil: the importance of the target cell for transgenic models of human leukemias",
+   "year": "1999",
+   "venue": "Blood, The Journal of the American Society of Hematology 93 (7), 2143-2148, 1999",
+   "num_citations": 75,
+   "author_pub_id": "b9C-eUQAAAAJ:EYYDruWGBe4C"
+  },
+  {
+   "title": "Structure and expression of a cluster of human hematopoietic serine protease genes found on chromosome 14q11. 2.",
+   "year": "1991",
+   "venue": "Journal of Biological Chemistry 266 (10), 6152-6158, 1991",
+   "num_citations": 75,
+   "author_pub_id": "b9C-eUQAAAAJ:0KyAp5RtaNEC"
+  },
+  {
+   "title": "Residual cytotoxicity and granzyme K expression in granzyme A-deficient cytotoxic lymphocytes",
+   "year": "1997",
+   "venue": "Journal of Biological Chemistry 272 (32), 20236-20244, 1997",
+   "num_citations": 74,
+   "author_pub_id": "b9C-eUQAAAAJ:b0M2c_1WBrUC"
+  },
+  {
+   "title": "Early myeloid cell-specific expression of the human cathepsin G gene in transgenic mice.",
+   "year": "1994",
+   "venue": "Proceedings of the National Academy of Sciences 91 (19), 8989-8993, 1994",
+   "num_citations": 74,
+   "author_pub_id": "b9C-eUQAAAAJ:dTyEYWd-f8wC"
+  },
+  {
+   "title": "A cluster of hematopoietic serine protease genes is found on the same chromosomal band as the human alpha/delta T-cell receptor locus.",
+   "year": "1990",
+   "venue": "Proceedings of the National Academy of Sciences 87 (3), 960-963, 1990",
+   "num_citations": 73,
+   "author_pub_id": "b9C-eUQAAAAJ:tuHXwOkdijsC"
+  },
+  {
+   "title": "A pilot study of high-throughput, sequence-based mutational profiling of primary human acute myeloid leukemia cell genomes",
+   "year": "2003",
+   "venue": "Proceedings of the National Academy of Sciences 100 (24), 14275-14280, 2003",
+   "num_citations": 71,
+   "author_pub_id": "b9C-eUQAAAAJ:abG-DnoFyZgC"
+  },
+  {
+   "title": "Structure and function of the murine β-globin locus control region 5′ HS-3",
+   "year": "1992",
+   "venue": "Nucleic acids research 20 (21), 5771-5778, 1992",
+   "num_citations": 69,
+   "author_pub_id": "b9C-eUQAAAAJ:OU6Ihb5iCvQC"
+  },
+  {
+   "title": "Spontaneous subarachnoid hemorrhage simulating acute transmural myocardial infarction",
+   "year": "1983",
+   "venue": "American heart journal 105 (3), 511-513, 1983",
+   "num_citations": 69,
+   "author_pub_id": "b9C-eUQAAAAJ:fPk4N6BV_jEC"
+  },
+  {
+   "title": "MIR142 Loss-of-Function Mutations Derepress ASH1L to Increase HOXA Gene Expression and Promote Leukemogenesis",
+   "year": "2018",
+   "venue": "Cancer research 78 (13), 3510-3521, 2018",
+   "num_citations": 68,
+   "author_pub_id": "b9C-eUQAAAAJ:TlpoogIpr_IC"
+  },
+  {
+   "title": "DNA methylation and regulation of the human beta-globin-like genes in mouse erythroleukemia cells containing human chromosome 11.",
+   "year": "1984",
+   "venue": "Proceedings of the National Academy of Sciences 81 (21), 6618-6622, 1984",
+   "num_citations": 67,
+   "author_pub_id": "b9C-eUQAAAAJ:SP6oXDckpogC"
+  },
+  {
+   "title": "Functional and epigenetic phenotypes of humans and mice with DNMT3A Overgrowth Syndrome",
+   "year": "2021",
+   "venue": "Nature Communications 12 (1), 4549, 2021",
+   "num_citations": 66,
+   "author_pub_id": "b9C-eUQAAAAJ:ijdKiLOsEJMC"
+  },
+  {
+   "title": "Decitabine inTP53-Mutated AML",
+   "year": "2017",
+   "venue": "New England Journal of Medicine 376 (8), 797-798, 2017",
+   "num_citations": 66,
+   "author_pub_id": "b9C-eUQAAAAJ:UeHWp8X0CEIC"
+  },
+  {
+   "title": "The role of granzyme B cluster proteases in cell-mediated cytotoxicity",
+   "year": "1997",
+   "venue": "Seminars in immunology 9 (2), 127-133, 1997",
+   "num_citations": 66,
+   "author_pub_id": "b9C-eUQAAAAJ:8AbLer7MMksC"
+  },
+  {
+   "title": "Whole exome sequencing reveals the order of genetic changes during malignant transformation and metastasis in a single patient with NF1-plexiform neurofibroma",
+   "year": "2015",
+   "venue": "Clinical cancer research 21 (18), 4201-4211, 2015",
+   "num_citations": 64,
+   "author_pub_id": "b9C-eUQAAAAJ:fEOibwPWpKIC"
+  },
+  {
+   "title": "Comprehensive genomic analysis reveals FLT3 activation and a therapeutic strategy for a patient with relapsed adult B-lymphoblastic leukemia",
+   "year": "2016",
+   "venue": "Experimental hematology 44 (7), 603-613, 2016",
+   "num_citations": 63,
+   "author_pub_id": "b9C-eUQAAAAJ:zA6iFVUQeVQC"
+  },
+  {
+   "title": "Globin gene expression in erythroid human fetal liver cells.",
+   "year": "1989",
+   "venue": "The Journal of clinical investigation 83 (3), 1032-1038, 1989",
+   "num_citations": 63,
+   "author_pub_id": "b9C-eUQAAAAJ:VL0QpB8kHFEC"
+  },
+  {
+   "title": "Expression profiling of snoRNAs in normal hematopoiesis and AML",
+   "year": "2018",
+   "venue": "Blood advances 2 (2), 151-163, 2018",
+   "num_citations": 61,
+   "author_pub_id": "b9C-eUQAAAAJ:ziOE8S1-AIUC"
+  },
+  {
+   "title": "An intramolecular DNA triplex is disrupted by point mutations associated with hereditary persistence of fetal hemoglobin.",
+   "year": "1992",
+   "venue": "Journal of Biological Chemistry 267 (26), 18649-18658, 1992",
+   "num_citations": 58,
+   "author_pub_id": "b9C-eUQAAAAJ:M3ejUd6NZC8C"
+  },
+  {
+   "title": "Analysis of epitope expression and the functional repertoire of recombinant complement receptor 2 (CR2/CD21) in mouse and human cells.",
+   "year": "1989",
+   "venue": "The Journal of Immunology 143 (3), 923-930, 1989",
+   "num_citations": 58,
+   "author_pub_id": "b9C-eUQAAAAJ:Zph67rFs4hoC"
+  },
+  {
+   "title": "Enhanced efficacy and increased long-term toxicity of CNS-directed, AAV-based combination therapy for Krabbe disease",
+   "year": "2021",
+   "venue": "Molecular Therapy 29 (2), 691-701, 2021",
+   "num_citations": 57,
+   "author_pub_id": "b9C-eUQAAAAJ:hQUaER0FWQ4C"
+  },
+  {
+   "title": "Augmented Inflammatory Responses and Altered Wound Healing in Cathepsin G–Deficient Mice",
+   "year": "1998",
+   "venue": "Archives of Surgery 133 (9), 1002-1006, 1998",
+   "num_citations": 57,
+   "author_pub_id": "b9C-eUQAAAAJ:GnPB-g6toBAC"
+  },
+  {
+   "title": "Differential expression of granzyme B and C in murine cytotoxic lymphocytes",
+   "year": "2009",
+   "venue": "The Journal of Immunology 182 (10), 6287-6297, 2009",
+   "num_citations": 56,
+   "author_pub_id": "b9C-eUQAAAAJ:t6usbXjVLHcC"
+  },
+  {
+   "title": "Stochastic, stage-specific mechanisms account for the variegation of a human globin transgene",
+   "year": "1998",
+   "venue": "Nucleic acids research 26 (12), 2849-2858, 1998",
+   "num_citations": 56,
+   "author_pub_id": "b9C-eUQAAAAJ:Dip1O2bNi0gC"
+  },
+  {
+   "title": "Adaptive immunity cooperates with liposomal all-trans-retinoic acid (ATRA) to facilitate long-term molecular remissions in mice with acute promyelocytic leukemia",
+   "year": "2002",
+   "venue": "Proceedings of the National Academy of Sciences 99 (14), 9468-9473, 2002",
+   "num_citations": 55,
+   "author_pub_id": "b9C-eUQAAAAJ:UHK10RUVsp4C"
+  },
+  {
+   "title": "The 5'-flanking region of the human CGL-1/granzyme B gene targets expression of a reporter gene to activated T-lymphocytes in transgenic mice.",
+   "year": "1991",
+   "venue": "Journal of Biological Chemistry 266 (36), 24433-24438, 1991",
+   "num_citations": 55,
+   "author_pub_id": "b9C-eUQAAAAJ:wbdj-CoPYUoC"
+  },
+  {
+   "title": "Independent formation of DnaseI hypersensitive sites in the murine β-globin locus control region",
+   "year": "2000",
+   "venue": "Blood, The Journal of the American Society of Hematology 95 (11), 3600-3604, 2000",
+   "num_citations": 54,
+   "author_pub_id": "b9C-eUQAAAAJ:HE397vMXCloC"
+  },
+  {
+   "title": "Neutral proteinase expression by human mononuclear phagocytes: a prominent role of cellular differentiation.",
+   "year": "1992",
+   "venue": "Matrix (Stuttgart, Germany). Supplement 1, 363-367, 1992",
+   "num_citations": 54,
+   "author_pub_id": "b9C-eUQAAAAJ:L7CI7m0gUJcC"
+  },
+  {
+   "title": "Pharmacological manipulation of fetal hemoglobin synthesis in patients with severe β‐thalassemia",
+   "year": "1985",
+   "venue": "Annals of the New York Academy of Sciences 445 (1), 198-211, 1985",
+   "num_citations": 54,
+   "author_pub_id": "b9C-eUQAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+   "title": "Failure to detect mutations in U2AF1 due to changes in the GRCh38 reference sequence",
+   "year": "2022",
+   "venue": "The Journal of Molecular Diagnostics 24 (3), 219-223, 2022",
+   "num_citations": 53,
+   "author_pub_id": "b9C-eUQAAAAJ:c59VksA5Vz4C"
+  },
+  {
+   "title": "PML-RARA can increase hematopoietic self-renewal without causing a myeloproliferative disease in mice",
+   "year": "2011",
+   "venue": "The Journal of clinical investigation 121 (4), 1636-1645, 2011",
+   "num_citations": 52,
+   "author_pub_id": "b9C-eUQAAAAJ:uJ-U7cs_P_0C"
+  },
+  {
+   "title": "How do lymphocytes kill tumor cells?",
+   "year": "1996",
+   "venue": "Clinical cancer research: an official journal of the American Association …, 1996",
+   "num_citations": 51,
+   "author_pub_id": "b9C-eUQAAAAJ:e5wmG9Sq2KIC"
+  },
+  {
+   "title": "PML-RARA requires DNA methyltransferase 3A to initiate acute promyelocytic leukemia",
+   "year": "2016",
+   "venue": "The Journal of clinical investigation 126 (1), 85-98, 2016",
+   "num_citations": 50,
+   "author_pub_id": "b9C-eUQAAAAJ:W5xh706n7nkC"
+  },
+  {
+   "title": "Consensus AP-1 and CRE motifs upstream from the human cytotoxic serine protease B (CSP-B/CGL-1) gene synergize to activate transcription",
+   "year": "1993",
+   "venue": "",
+   "num_citations": 50,
+   "author_pub_id": "b9C-eUQAAAAJ:hC7cP41nSMkC"
+  },
+  {
+   "title": "Obesity is a risk factor for acute promyelocytic leukemia: evidence from population and cross-sectional studies and correlation with FLT3 mutations and polyunsaturated fatty …",
+   "year": "2019",
+   "venue": "Haematologica 105 (6), 1559, 2019",
+   "num_citations": 49,
+   "author_pub_id": "b9C-eUQAAAAJ:-6RzNnnwWf8C"
+  },
+  {
+   "title": "Clonal evolution revealed by whole genome sequencing in a case of primary myelofibrosis transformed to secondary acute myeloid leukemia",
+   "year": "2015",
+   "venue": "Leukemia 29 (4), 869-876, 2015",
+   "num_citations": 48,
+   "author_pub_id": "b9C-eUQAAAAJ:kNdYIx-mwKoC"
+  },
+  {
+   "title": "Immunosuppression and outcomes in adult patients with de novo acute myeloid leukemia with normal karyotypes",
+   "year": "2021",
+   "venue": "Proceedings of the National Academy of Sciences 118 (49), e2116427118, 2021",
+   "num_citations": 47,
+   "author_pub_id": "b9C-eUQAAAAJ:ji7lAbPyDbYC"
+  },
+  {
+   "title": "Granzyme B is not required for regulatory T cell–mediated suppression of graft-versus-host disease",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 115 (9), 1669-1677, 2010",
+   "num_citations": 47,
+   "author_pub_id": "b9C-eUQAAAAJ:CHSYGLWDkRkC"
+  },
+  {
+   "title": "Notch signaling in acute promyelocytic leukemia",
+   "year": "2013",
+   "venue": "Leukemia 27 (7), 1548-1557, 2013",
+   "num_citations": 46,
+   "author_pub_id": "b9C-eUQAAAAJ:mVmsd5A6BfQC"
+  },
+  {
+   "title": "Commonly dysregulated genes in murine APL cells",
+   "year": "2007",
+   "venue": "Blood 109 (3), 961-970, 2007",
+   "num_citations": 46,
+   "author_pub_id": "b9C-eUQAAAAJ:g3aElNc5_aQC"
+  },
+  {
+   "title": "An Intramolecular Triplex in the Human γ-Globin 5′-Flanking Region Is Altered by Point Mutations Associated with Hereditary Persistence of Fetal Hemoglobin (∗)",
+   "year": "1995",
+   "venue": "Journal of Biological Chemistry 270 (41), 24556-24563, 1995",
+   "num_citations": 46,
+   "author_pub_id": "b9C-eUQAAAAJ:z_wVstp3MssC"
+  },
+  {
+   "title": "Disseminated Infection Caused by Cunninghamella bertholletiae in a Patient with Beta-Thalassemia: Case Report and Review of the Literature",
+   "year": "1985",
+   "venue": "Annals of internal medicine 102 (1), 59-63, 1985",
+   "num_citations": 46,
+   "author_pub_id": "b9C-eUQAAAAJ:D03iK_w7-QYC"
+  },
+  {
+   "title": "Granzymes A and B are not expressed in human neutrophils",
+   "year": "2004",
+   "venue": "Blood 104 (3), 906-908, 2004",
+   "num_citations": 45,
+   "author_pub_id": "b9C-eUQAAAAJ:rO6llkc54NcC"
+  },
+  {
+   "title": "Molecular cloning, chromosomal location, and tissue-specific expression of the murine cathepsin G gene",
+   "year": "1993",
+   "venue": "",
+   "num_citations": 45,
+   "author_pub_id": "b9C-eUQAAAAJ:dQ2og3OwTAUC"
+  },
+  {
+   "title": "Remethylation of Dnmt3a−/− hematopoietic cells is associated with partial correction of gene dysregulation and reduced myeloid skewing",
+   "year": "2020",
+   "venue": "Proceedings of the National Academy of Sciences 117 (6), 3123-3134, 2020",
+   "num_citations": 44,
+   "author_pub_id": "b9C-eUQAAAAJ:Zh0EY9V9P6UC"
+  },
+  {
+   "title": "Primary acute myeloid leukemia cells with IDH1 or IDH2 mutations respond to a DOT1L inhibitor in vitro",
+   "year": "2014",
+   "venue": "Leukemia 28 (12), 2403-2406, 2014",
+   "num_citations": 44,
+   "author_pub_id": "b9C-eUQAAAAJ:uLbwQdceFCQC"
+  },
+  {
+   "title": "The pharmacology of hemoglobin switching: of mice and men",
+   "year": "1991",
+   "venue": "Blood 77 (6), 1146-1152, 1991",
+   "num_citations": 41,
+   "author_pub_id": "b9C-eUQAAAAJ:LI9QrySNdTsC"
+  },
+  {
+   "title": "Transcriptional activation of the human cytotoxic serine protease gene CSP-B in T lymphocytes",
+   "year": "1990",
+   "venue": "Molecular and cellular biology 10 (11), 5655-5662, 1990",
+   "num_citations": 41,
+   "author_pub_id": "b9C-eUQAAAAJ:blknAaTinKkC"
+  },
+  {
+   "title": "DNA methylation and globin gene expression in patients treated with 5-azacytidine.",
+   "year": "1983",
+   "venue": "Progress in clinical and biological research 134, 457-474, 1983",
+   "num_citations": 41,
+   "author_pub_id": "b9C-eUQAAAAJ:g5m5HwL7SMYC"
+  },
+  {
+   "title": "Focal disruption of DNA methylation dynamics at enhancers in IDH-mutant AML cells: ACUTE MYELOID LEUKEMIA",
+   "year": "2022",
+   "venue": "Leukemia 36 (4), 935-945, 2022",
+   "num_citations": 39,
+   "author_pub_id": "b9C-eUQAAAAJ:sfnaS5RM6jYC"
+  },
+  {
+   "title": "Genomic landscape of TP53-mutated myeloid malignancies",
+   "year": "2023",
+   "venue": "Blood Advances 7 (16), 4586-4598, 2023",
+   "num_citations": 38,
+   "author_pub_id": "b9C-eUQAAAAJ:rOcdG6UcVlcC"
+  },
+  {
+   "title": "Granzymes and caspase 3 play important roles in control of gammaherpesvirus latency",
+   "year": "2004",
+   "venue": "Journal of virology 78 (22), 12519-12528, 2004",
+   "num_citations": 38,
+   "author_pub_id": "b9C-eUQAAAAJ:a0OBvERweLwC"
+  },
+  {
+   "title": "A Novel c-fgr Exon Utilized in Epstein-Barr Virus-Infected B Lymphocytes but Not in Normal Monocytes",
+   "year": "1991",
+   "venue": "Molecular and cellular biology 11 (3), 1500-1507, 1991",
+   "num_citations": 38,
+   "author_pub_id": "b9C-eUQAAAAJ:3s1wT3WcHBgC"
+  },
+  {
+   "title": "Acquired alpha-thalassemia in preleukemia is due to decreased expression of all four alpha-globin genes.",
+   "year": "1983",
+   "venue": "Proceedings of the National Academy of Sciences 80 (19), 6051-6055, 1983",
+   "num_citations": 38,
+   "author_pub_id": "b9C-eUQAAAAJ:k_IJM867U9cC"
+  },
+  {
+   "title": "Genetic and transcriptional contributions to relapse in normal karyotype acute myeloid leukemia",
+   "year": "2022",
+   "venue": "Blood cancer discovery 3 (1), 32-49, 2022",
+   "num_citations": 37,
+   "author_pub_id": "b9C-eUQAAAAJ:naSTrk-c4S8C"
+  },
+  {
+   "title": "Convergent clonal evolution of signaling gene mutations is a hallmark of myelodysplastic syndrome progression",
+   "year": "2022",
+   "venue": "Blood cancer discovery 3 (4), 330-345, 2022",
+   "num_citations": 36,
+   "author_pub_id": "b9C-eUQAAAAJ:EaFouW7jFu4C"
+  },
+  {
+   "title": "wuHMM: a robust algorithm to detect DNA copy number variation using long oligonucleotide microarray data",
+   "year": "2008",
+   "venue": "Nucleic acids research 36 (7), e41, 2008",
+   "num_citations": 36,
+   "author_pub_id": "b9C-eUQAAAAJ:geHnlv5EZngC"
+  },
+  {
+   "title": "Mouse models of acute promyelocytic leukemia",
+   "year": "2001",
+   "venue": "Current opinion in hematology 8 (4), 206-211, 2001",
+   "num_citations": 36,
+   "author_pub_id": "b9C-eUQAAAAJ:4OULZ7Gr8RgC"
+  },
+  {
+   "title": "Mutational landscape and response are conserved in peripheral blood of AML and MDS patients during decitabine therapy",
+   "year": "2017",
+   "venue": "Blood, The Journal of the American Society of Hematology 129 (10), 1397-1401, 2017",
+   "num_citations": 33,
+   "author_pub_id": "b9C-eUQAAAAJ:SjuI4pbJlxcC"
+  },
+  {
+   "title": "Next-generation sequencing of cancer genomes: back to the future",
+   "year": "2009",
+   "venue": "Personalized medicine 6 (6), 653-662, 2009",
+   "num_citations": 33,
+   "author_pub_id": "b9C-eUQAAAAJ:TIZ-Mc8IlK0C"
+  },
+  {
+   "title": "Mechanisms Responsible for Granzyme B–Independent Cytotoxicity",
+   "year": "1997",
+   "venue": "Blood, The Journal of the American Society of Hematology 89 (11), 4085-4091, 1997",
+   "num_citations": 33,
+   "author_pub_id": "b9C-eUQAAAAJ:bnK-pcrLprsC"
+  },
+  {
+   "title": "POU4F1 is associated with t (8; 21) acute myeloid leukemia and contributes directly to its unique transcriptional signature",
+   "year": "2010",
+   "venue": "Leukemia 24 (5), 950-957, 2010",
+   "num_citations": 32,
+   "author_pub_id": "b9C-eUQAAAAJ:tOudhMTPpwUC"
+  },
+  {
+   "title": "Computational identification of the normal and perturbed genetic networks involved in myeloid differentiation and acute promyelocytic leukemia",
+   "year": "2008",
+   "venue": "Genome Biology 9 (2), R38, 2008",
+   "num_citations": 32,
+   "author_pub_id": "b9C-eUQAAAAJ:Y5dfb0dijaUC"
+  },
+  {
+   "title": "IL-1β expression in bone marrow dendritic cells is induced by TLR2 agonists and regulates HSC function",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (14), 1607-1620, 2022",
+   "num_citations": 30,
+   "author_pub_id": "b9C-eUQAAAAJ:6VlyvFCUEfcC"
+  },
+  {
+   "title": "Tumor suppressor function of Gata2 in acute promyelocytic leukemia",
+   "year": "2021",
+   "venue": "Blood, The Journal of the American Society of Hematology 138 (13), 1148-1161, 2021",
+   "num_citations": 30,
+   "author_pub_id": "b9C-eUQAAAAJ:dAp6zn-oMfAC"
+  },
+  {
+   "title": "BreakTrans: uncovering the genomic architecture of gene fusions",
+   "year": "2013",
+   "venue": "Genome biology 14 (8), R87, 2013",
+   "num_citations": 30,
+   "author_pub_id": "b9C-eUQAAAAJ:BUYA1_V_uYcC"
+  },
+  {
+   "title": "Hop cleavage and function in granzyme B-induced apoptosis",
+   "year": "2006",
+   "venue": "Journal of Biological Chemistry 281 (48), 37130-37141, 2006",
+   "num_citations": 30,
+   "author_pub_id": "b9C-eUQAAAAJ:hMod-77fHWUC"
+  },
+  {
+   "title": "DNMT3A overgrowth syndrome is associated with the development of hematopoietic malignancies in children and young adults",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 139 (3), 461-464, 2022",
+   "num_citations": 29,
+   "author_pub_id": "b9C-eUQAAAAJ:eI34FqJmdUoC"
+  },
+  {
+   "title": "Caspase-9 is required for normal hematopoietic development and protection from alkylator-induced DNA damage in mice",
+   "year": "2014",
+   "venue": "Blood, The Journal of the American Society of Hematology 124 (26), 3887-3895, 2014",
+   "num_citations": 29,
+   "author_pub_id": "b9C-eUQAAAAJ:NMxIlDl6LWMC"
+  },
+  {
+   "title": "Expression profiling of murine acute promyelocytic leukemia cells reveals multiple model-dependent progression signatures",
+   "year": "2004",
+   "venue": "Molecular and cellular biology 24 (24), 10882-10893, 2004",
+   "num_citations": 29,
+   "author_pub_id": "b9C-eUQAAAAJ:AvfA0Oy_GE0C"
+  },
+  {
+   "title": "Long targeting arms do not increase the efficiency of homologous recombination in the β-globin locus of murine embryonic stem cells",
+   "year": "2003",
+   "venue": "Blood 102 (4), 1531-1533, 2003",
+   "num_citations": 29,
+   "author_pub_id": "b9C-eUQAAAAJ:-FonjvnnhkoC"
+  },
+  {
+   "title": "Induction of hemoglobin F synthesis in patients with beta thalassemia.",
+   "year": "1985",
+   "venue": "Annual review of medicine 36, 485-498, 1985",
+   "num_citations": 29,
+   "author_pub_id": "b9C-eUQAAAAJ:ZeXyd9-uunAC"
+  },
+  {
+   "title": "Recurrent transcriptional responses in AML and MDS patients treated with decitabine",
+   "year": "2022",
+   "venue": "Experimental hematology 111, 50-65, 2022",
+   "num_citations": 26,
+   "author_pub_id": "b9C-eUQAAAAJ:oTdOBqtIf_kC"
+  },
+  {
+   "title": "Genetic heterogeneity of induced pluripotent stem cells: results from 24 clones derived from a single C57BL/6 mouse",
+   "year": "2015",
+   "venue": "PLoS One 10 (3), e0120585, 2015",
+   "num_citations": 25,
+   "author_pub_id": "b9C-eUQAAAAJ:TFP_iSt0sucC"
+  },
+  {
+   "title": "1,25-Dihydroxyvitamin D3 Induces Monocytic Differentiation of the PLB-985 Leukemic Line and Promotes c-fgr mRNA Expression",
+   "year": "1991",
+   "venue": "Journal of leukocyte biology 50 (5), 427-433, 1991",
+   "num_citations": 25,
+   "author_pub_id": "b9C-eUQAAAAJ:maZDTaKrznsC"
+  },
+  {
+   "title": "A weak upstream promoter gives rise to long human β-globin RNA molecules",
+   "year": "1983",
+   "venue": "Biochemical and Biophysical Research Communications 112 (3), 1041-1048, 1983",
+   "num_citations": 25,
+   "author_pub_id": "b9C-eUQAAAAJ:J-pR_7NvFogC"
+  },
+  {
+   "title": "Physician-scientist workforce working group report",
+   "year": "2014",
+   "venue": "National Institutes of Health: Bethesda, MD, 2014",
+   "num_citations": 24,
+   "author_pub_id": "b9C-eUQAAAAJ:KTwcwpFFj4wC"
+  },
+  {
+   "title": "AT-rich scaffold attachment regions flank the hematopoietic serine protease genes clustered on chromosome 14q11. 2",
+   "year": "1992",
+   "venue": "",
+   "num_citations": 24,
+   "author_pub_id": "b9C-eUQAAAAJ:j3f4tGmQtD8C"
+  },
+  {
+   "title": "The 5′ flanking region of the human granzyme H gene directs expression to T/natural killer cell progenitors and lymphokine-activated killer cells in transgenic mice",
+   "year": "1999",
+   "venue": "Blood, The Journal of the American Society of Hematology 93 (3), 963-973, 1999",
+   "num_citations": 23,
+   "author_pub_id": "b9C-eUQAAAAJ:HDshCWvjkbEC"
+  },
+  {
+   "title": "Molecular mechanisms regulating the production of collagenase and TIMP in U937 cells: evidence for involvement of delayed transcriptional activation and enhanced mRNA stability",
+   "year": "1993",
+   "venue": "Biochemistry 32 (16), 4286-4292, 1993",
+   "num_citations": 23,
+   "author_pub_id": "b9C-eUQAAAAJ:PR6Y55bgFSsC"
+  },
+  {
+   "title": "Response and toxicity associated with dose escalation of arsenic trioxide in the treatment of resistant acute promyelocytic leukemia",
+   "year": "1997",
+   "venue": "Blood 90 (Suppl 1), 249b, 1997",
+   "num_citations": 22,
+   "author_pub_id": "b9C-eUQAAAAJ:D_sINldO8mEC"
+  },
+  {
+   "title": "Reduced β‐Globin Gene Expression in Adult Mice Containing Deletions of Locus Control Region 5′ HS‐2 or 5′ HS‐3a",
+   "year": "1998",
+   "venue": "Annals of the New York Academy of Sciences 850 (1), 45-53, 1998",
+   "num_citations": 21,
+   "author_pub_id": "b9C-eUQAAAAJ:SeFeTyx0c_EC"
+  },
+  {
+   "title": "Human globin gene expression in hybrid 2S MEL× human fibroblast cells",
+   "year": "1984",
+   "venue": "Somatic cell and molecular genetics 10 (4), 399-407, 1984",
+   "num_citations": 21,
+   "author_pub_id": "b9C-eUQAAAAJ:ULOm3_A8WrAC"
+  },
+  {
+   "title": "Expression and Function of PML-RARA in the Hematopoietic Progenitor Cells of Ctsg-PML-RARA Mice",
+   "year": "2012",
+   "venue": "Public Library of Science 7 (10), e46529, 2012",
+   "num_citations": 20,
+   "author_pub_id": "b9C-eUQAAAAJ:bFI3QPDXJZMC"
+  },
+  {
+   "title": "Rara haploinsufficiency modestly influences the phenotype of acute promyelocytic leukemia in mice",
+   "year": "2011",
+   "venue": "Blood, The Journal of the American Society of Hematology 117 (8), 2460-2468, 2011",
+   "num_citations": 20,
+   "author_pub_id": "b9C-eUQAAAAJ:_B80troHkn4C"
+  },
+  {
+   "title": "Murine acute promyelocytic leukemia cells can be recognized and cleared in vivo by adaptive immune mechanisms",
+   "year": "2005",
+   "venue": "",
+   "num_citations": 20,
+   "author_pub_id": "b9C-eUQAAAAJ:RYcK_YlVTxYC"
+  },
+  {
+   "title": "Use of protease proteomics to discover granzyme B substrates",
+   "year": "2005",
+   "venue": "Immunologic research 32 (1), 143-153, 2005",
+   "num_citations": 19,
+   "author_pub_id": "b9C-eUQAAAAJ:ZfRJV9d4-WMC"
+  },
+  {
+   "title": "Acquired copy number alterations of miRNA genes in acute myeloid leukemia are uncommon",
+   "year": "2013",
+   "venue": "Blood, The Journal of the American Society of Hematology 122 (15), e44-e51, 2013",
+   "num_citations": 18,
+   "author_pub_id": "b9C-eUQAAAAJ:VaXvl8Fpj5cC"
+  },
+  {
+   "title": "Proteogenomic analysis reveals cytoplasmic sequestration of RUNX1 by the acute myeloid leukemia–initiating CBFB:: MYH11 oncofusion protein",
+   "year": "2024",
+   "venue": "The Journal of clinical investigation 134 (4), 2024",
+   "num_citations": 17,
+   "author_pub_id": "b9C-eUQAAAAJ:aDl3D7KC1E4C"
+  },
+  {
+   "title": "A protease-resistant PML-RARα has increased leukemogenic potential in a murine model of acute promyelocytic leukemia",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 116 (18), 3604-3610, 2010",
+   "num_citations": 17,
+   "author_pub_id": "b9C-eUQAAAAJ:BwyfMAYsbu0C"
+  },
+  {
+   "title": "Characterization of the 5'untranslated region of the human c-fgr gene and identification of the major myelomonocytic c-fgr promoter.",
+   "year": "1992",
+   "venue": "Oncogene 7 (5), 877-884, 1992",
+   "num_citations": 17,
+   "author_pub_id": "b9C-eUQAAAAJ:BqipwSGYUEgC"
+  },
+  {
+   "title": "Silent substitution in β+-thalassemia gene activating a cryptic splice site in β-globin RNA coding sequence",
+   "year": "1983",
+   "venue": "Proc Natl Acad Sci USA 80 (8), 2318-2322, 1983",
+   "num_citations": 17,
+   "author_pub_id": "b9C-eUQAAAAJ:JP7YXuLIOvAC"
+  },
+  {
+   "title": "DNMT3AR882-associated hypomethylation patterns are maintained in primary AML xenografts, but not in the DNMT3AR882C OCI-AML3 leukemia cell line",
+   "year": "2018",
+   "venue": "Blood cancer journal 8 (4), 38, 2018",
+   "num_citations": 16,
+   "author_pub_id": "b9C-eUQAAAAJ:pS0ncopqnHgC"
+  },
+  {
+   "title": "Rapid and accurate remethylation of DNA in Dnmt3a-deficient hematopoietic cells with restoration of DNMT3A activity",
+   "year": "2024",
+   "venue": "Science advances 10 (5), eadk8598, 2024",
+   "num_citations": 14,
+   "author_pub_id": "b9C-eUQAAAAJ:xyvS_IvSCKsC"
+  },
+  {
+   "title": "Impact of a 40-gene targeted panel test on physician decision making for patients with acute myeloid leukemia",
+   "year": "2021",
+   "venue": "JCO Precision Oncology 5, 191-203, 2021",
+   "num_citations": 14,
+   "author_pub_id": "b9C-eUQAAAAJ:LK8CI43ZvvMC"
+  },
+  {
+   "title": "Quantitative trait loci associated with susceptibility to therapy-related acute murine promyelocytic leukemia in hCG-PML/RARA transgenic mice",
+   "year": "2008",
+   "venue": "Blood, The Journal of the American Society of Hematology 112 (4), 1434-1442, 2008",
+   "num_citations": 14,
+   "author_pub_id": "b9C-eUQAAAAJ:b1wdh0AR-JQC"
+  },
+  {
+   "title": "Description of a novel subtype of acute myeloid leukemia defined by recurrent CBFB insertions",
+   "year": "2023",
+   "venue": "Blood 141 (7), 800-805, 2023",
+   "num_citations": 12,
+   "author_pub_id": "b9C-eUQAAAAJ:bVQMTfhMCi4C"
+  },
+  {
+   "title": "Comprehensive discovery of noncoding RNAs in acute myeloid leukemia cell transcriptomes",
+   "year": "2017",
+   "venue": "Experimental hematology 55, 19-33, 2017",
+   "num_citations": 12,
+   "author_pub_id": "b9C-eUQAAAAJ:QyXJ3EUuO1IC"
+  },
+  {
+   "title": "Deletions within the mouse β-globin locus control region preferentially reduce βmin globin gene expression",
+   "year": "2000",
+   "venue": "Genomics 63 (3), 417-424, 2000",
+   "num_citations": 12,
+   "author_pub_id": "b9C-eUQAAAAJ:vDijr-p_gm4C"
+  },
+  {
+   "title": "Persistent molecular disease in adult patients with AML evaluated with whole-exome and targeted error-corrected DNA sequencing",
+   "year": "2023",
+   "venue": "JCO Precision Oncology 7, e2200559, 2023",
+   "num_citations": 11,
+   "author_pub_id": "b9C-eUQAAAAJ:ifOnle78iJkC"
+  },
+  {
+   "title": "Dnmt3a deficiency in the skin causes focal, canonical DNA hypomethylation and a cellular proliferation phenotype",
+   "year": "2021",
+   "venue": "Proceedings of the National Academy of Sciences 118 (16), e2022760118, 2021",
+   "num_citations": 11,
+   "author_pub_id": "b9C-eUQAAAAJ:37UQlXuwjP4C"
+  },
+  {
+   "title": "International network of cancer genome projects",
+   "year": "2010",
+   "venue": "Macmillan Publishers Limited. All rights reserved, 2010",
+   "num_citations": 11,
+   "author_pub_id": "b9C-eUQAAAAJ:9LpHyFPp1DQC"
+  },
+  {
+   "title": "p3-39 thalassemia gene. A premature codon causes, B-mRNA deficiency mutant without affecting cytoplasmic, B-mRNA stability",
+   "year": "1984",
+   "venue": "Blood 64, 23-32, 1984",
+   "num_citations": 11,
+   "author_pub_id": "b9C-eUQAAAAJ:Z5m8FVwuT1cC"
+  },
+  {
+   "title": "Tumor suppressor function of WT1 in acute promyelocytic leukemia",
+   "year": "2021",
+   "venue": "Haematologica 107 (1), 342, 2021",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:AZju0d2GQJ0C"
+  },
+  {
+   "title": "Mutation detection in thousands of acute myeloid leukemia cells using single cell RNA-sequencing",
+   "year": "2018",
+   "venue": "BioRxiv, 434746, 2018",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:SIv7DqKytYAC"
+  },
+  {
+   "title": "Sequencing of tumor DNA to guide cancer risk assessment and therapy",
+   "year": "2018",
+   "venue": "JAMA 319 (14), 1497-1498, 2018",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:rTD5ala9j4wC"
+  },
+  {
+   "title": "The role of early TP53 mutations on the evolution of therapy-related AML",
+   "year": "2013",
+   "venue": "Blood 122 (21), 5, 2013",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:u9iWguZQMMsC"
+  },
+  {
+   "title": "AMD3100 Mobilizes Acute Promyelocytic Leukemia Cells from the Bone Marrow into the Peripheral Blood and Sensitizes Leukemia Cells to Chemotherapy.",
+   "year": "2005",
+   "venue": "Blood, The Journal of the American Society of Hematology 106 (11), 246-246, 2005",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:p__nRnzSRKYC"
+  },
+  {
+   "title": "Pharmacologic manipulation of fetal hemoglobin synthesis.",
+   "year": "1985",
+   "venue": "Progress in clinical and biological research 191, 447-454, 1985",
+   "num_citations": 10,
+   "author_pub_id": "b9C-eUQAAAAJ:oi2SiIJ9l4AC"
+  },
+  {
+   "title": "PML:: RARA and GATA2 proteins interact via DNA templates to induce aberrant self-renewal in mouse and human hematopoietic cells",
+   "year": "2024",
+   "venue": "Proceedings of the National Academy of Sciences 121 (18), e2317690121, 2024",
+   "num_citations": 9,
+   "author_pub_id": "b9C-eUQAAAAJ:Ej9njvOgR2oC"
+  },
+  {
+   "title": "Decitabine salvage for TP53-mutated, relapsed/refractory acute myeloid leukemia after cytotoxic induction therapy",
+   "year": "2022",
+   "venue": "Haematologica 107 (7), 1709, 2022",
+   "num_citations": 9,
+   "author_pub_id": "b9C-eUQAAAAJ:orDZ08hpP44C"
+  },
+  {
+   "title": "Targeted sequencing informs the evaluation of normal karyotype cytopenic patients for low-grade myelodysplastic syndrome",
+   "year": "2016",
+   "venue": "Leukemia 30 (12), 2422-2426, 2016",
+   "num_citations": 9,
+   "author_pub_id": "b9C-eUQAAAAJ:4vMrXwiscB8C"
+  },
+  {
+   "title": "Mutational profiling in the human genome",
+   "year": "2003",
+   "venue": "Cold Spring Harbor symposia on quantitative biology 68, 23-30, 2003",
+   "num_citations": 9,
+   "author_pub_id": "b9C-eUQAAAAJ:WA5NYHcadZ8C"
+  },
+  {
+   "title": "Silent nucleotide substitution in β+-thalassemia gene activates a cryptic splice site in β globin RNA coding sequence",
+   "year": "1982",
+   "venue": "Blood 60, 54a, 1982",
+   "num_citations": 9,
+   "author_pub_id": "b9C-eUQAAAAJ:JQOojiI6XY0C"
+  },
+  {
+   "title": "Lack of neighborhood effects from a transcriptionally active phosphoglycerate kinase–neo cassette located between the murine β-major and β-minor globin genes",
+   "year": "2001",
+   "venue": "Blood, The Journal of the American Society of Hematology 98 (1), 65-73, 2001",
+   "num_citations": 8,
+   "author_pub_id": "b9C-eUQAAAAJ:S16KYo8Pm5AC"
+  },
+  {
+   "title": "Development of acute promyelocytic leukemia (APML) in transgenic mice expressing both PML-RAR alpha and the reciprocal fusion protein, RAR alpha-PML.",
+   "year": "1997",
+   "venue": "Blood 90 (10), 1428-1428, 1997",
+   "num_citations": 8,
+   "author_pub_id": "b9C-eUQAAAAJ:kRWSkSYxWN8C"
+  },
+  {
+   "title": "Augmentation of hemoglobin synthesis by S-phase specific drugs in the K562 cell line",
+   "year": "1985",
+   "venue": "Progress in clinical and biological research 191, 205-216, 1985",
+   "num_citations": 8,
+   "author_pub_id": "b9C-eUQAAAAJ:HtEfBTGE9r8C"
+  },
+  {
+   "title": "Melanoma in a patient with DNMT3A overgrowth syndrome",
+   "year": "2023",
+   "venue": "Molecular Case Studies 9 (2), a006267, 2023",
+   "num_citations": 7,
+   "author_pub_id": "b9C-eUQAAAAJ:U0iAMwwPxtsC"
+  },
+  {
+   "title": "EXPRESSION ANALYSIS OF THE HUMAN-FETAL GLOBIN GENE PROMOTER IN HEREDITARY PERSISTENCE OF FETAL HEMOGLOBIN",
+   "year": "1986",
+   "venue": "Clinical Research 34 (2), A454-A454, 1986",
+   "num_citations": 7,
+   "author_pub_id": "b9C-eUQAAAAJ:J_g5lzvAfSwC"
+  },
+  {
+   "title": "Turner PH, Schechter AN, Heller P, Nienhuis AW: 5-azacytidine increases y-globin synthesis and reduces the proportion of dense cells in patients with sickle cell anemia",
+   "year": "1983",
+   "venue": "Blood 62, 370, 1983",
+   "num_citations": 7,
+   "author_pub_id": "b9C-eUQAAAAJ:ipzZ9siozwsC"
+  },
+  {
+   "title": "Abundance and structure of globin mRNA in K562 human leukemia cells.",
+   "year": "1983",
+   "venue": "Progress in Clinical and Biological Research 134, 323-334, 1983",
+   "num_citations": 7,
+   "author_pub_id": "b9C-eUQAAAAJ:bEWYMUwI8FkC"
+  },
+  {
+   "title": "DNMT3A mutations in acute myeloid leukemia",
+   "year": "2011",
+   "venue": "Blood 118 (21), SCI-31, 2011",
+   "num_citations": 6,
+   "author_pub_id": "b9C-eUQAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+   "title": "High-resolution analysis of the human gamma-globin gene promoter in K562 erythroleukemia cell chromatin",
+   "year": "1988",
+   "venue": "",
+   "num_citations": 6,
+   "author_pub_id": "b9C-eUQAAAAJ:pyW8ca7W8N0C"
+  },
+  {
+   "title": "5-AZACYTIDINE FOR BETA-THALASSAEMIA?",
+   "year": "1983",
+   "venue": "The Lancet 321 (8322), 467, 1983",
+   "num_citations": 6,
+   "author_pub_id": "b9C-eUQAAAAJ:iH-uZ7U-co4C"
+  },
+  {
+   "title": "Somatic Dnmt3a inactivation leads to slow, canonical DNA methylation loss in murine hematopoietic cells",
+   "year": "2022",
+   "venue": "Iscience 25 (4), 2022",
+   "num_citations": 5,
+   "author_pub_id": "b9C-eUQAAAAJ:DXE8ND7PrJAC"
+  },
+  {
+   "title": "DNMT3A R882H overexpression leads to hematopoietic and skin alterations in transgenic mice",
+   "year": "2013",
+   "venue": "Blood 122 (21), 479, 2013",
+   "num_citations": 5,
+   "author_pub_id": "b9C-eUQAAAAJ:vRqMK49ujn8C"
+  },
+  {
+   "title": "Physician-scientist training",
+   "year": "2006",
+   "venue": "JAMA: The Journal of the American Medical Association 295 (6), 623, 2006",
+   "num_citations": 5,
+   "author_pub_id": "b9C-eUQAAAAJ:L8Ckcad2t8MC"
+  },
+  {
+   "title": "Chelation therapy for transfusion-dependent adults",
+   "year": "1983",
+   "venue": "New England Journal of Medicine 308 (23), 1422-1423, 1983",
+   "num_citations": 5,
+   "author_pub_id": "b9C-eUQAAAAJ:B3FOqHPlNUQC"
+  },
+  {
+   "title": "Stabilizing the proteomes of acute myeloid leukemia cells: implications for cancer proteomics",
+   "year": "2024",
+   "venue": "Molecular & Cellular Proteomics 23 (2), 2024",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:KI9T_ytC6pkC"
+  },
+  {
+   "title": "Recurrent somatic genomic alterations in follicular NHL (FL) revealed by exome and custom-capture next generation sequencing",
+   "year": "2015",
+   "venue": "Blood 126 (23), 574, 2015",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:rmuvC79q63oC"
+  },
+  {
+   "title": "Whole-genome bisulfite sequencing of primary AML cells with the DNMT3A R882H mutation identifies regions of focal hypomethylation that are associated with open chromatin",
+   "year": "2014",
+   "venue": "Blood 124 (21), 608, 2014",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:xtRiw3GOFMkC"
+  },
+  {
+   "title": "Recurrent DNMT3A Mutations In Patients with Myelodysplastic Syndrome",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 116 (21), 608-608, 2010",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:UebtZRa9Y70C"
+  },
+  {
+   "title": "Expression of PML-RARα by the Murine PML Locus Leads to Myeloid Self-Renewal, Clonal Expansion and Morphologic Promyelocytic Leukemia.",
+   "year": "2008",
+   "venue": "Blood 112 (11), 932, 2008",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:9ZlFYXVOiuMC"
+  },
+  {
+   "title": "The endangered physician-scientist: Opportunities for revitalization emerge",
+   "year": "2004",
+   "venue": "Invited paper to the Lucille P. Markey Charitable Trust programs evaluation …, 2004",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:n3vGvpFsckwC"
+  },
+  {
+   "title": "Long range disruption of gene expression by a PGK-neo cassette.",
+   "year": "1996",
+   "venue": "Blood 88 (10), 1720-1720, 1996",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:ufrVoPGSRksC"
+  },
+  {
+   "title": "DNA secondary structure is altered by a point mutation associated with hereditary persistence of fetal hemoglobin (HPFH)",
+   "year": "1985",
+   "venue": "Blood 66 (7), 1985",
+   "num_citations": 4,
+   "author_pub_id": "b9C-eUQAAAAJ:R3hNpaxXUhUC"
+  },
+  {
+   "title": "Molecular responses in decitabine-and decitabine/venetoclax-treated patients with acute myeloid leukemia and myelodysplastic syndromes",
+   "year": "2024",
+   "venue": "Haematologica 109 (8), 2653, 2024",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:E7VqQtBCVmcC"
+  },
+  {
+   "title": "Author correction: pan-cancer analysis of whole genomes",
+   "year": "2023",
+   "venue": "Nature 614 (7948), E39, 2023",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:uUvzmPk0f8oC"
+  },
+  {
+   "title": "Downregulation of MHC class II in relapsed AML cells after allogeneic transplantation",
+   "year": "2017",
+   "venue": "Blood 130, 2678, 2017",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:6_hjMsCP8ZoC"
+  },
+  {
+   "title": "Cellular Stressors Contribute to the Expansion of Multiple Hematopoietic Clones of Varying Leukemic Potential",
+   "year": "2017",
+   "venue": "Blood 130, 469, 2017",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:WC9gN4BGCRcC"
+  },
+  {
+   "title": "Expression of the Tumor Suppressor WT1 Is Induced By PML-Rara in Acute Promyelocytic Leukemia. Â Â",
+   "year": "2017",
+   "venue": "Blood 130, 2508, 2017",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:7H_MAutzIkAC"
+  },
+  {
+   "title": "Obesity as a risk factor for acute promyelocytic leukemia. Results from population and case-control studies across western countries and correlation with gene expression in the …",
+   "year": "2016",
+   "venue": "Blood, The Journal of the American Society of Hematology 128 (22), 448-448, 2016",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:bKqednn6t2AC"
+  },
+  {
+   "title": "Dysregulation and recurrent mutation of miRNA-142 in de novo AML",
+   "year": "2013",
+   "venue": "Blood 122 (21), 472, 2013",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:gsN89kCJA0AC"
+  },
+  {
+   "title": "Demographics of the physician-scientist work force",
+   "year": "2009",
+   "venue": "The vanishing physician-scientist, 39-49, 2009",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:BmWJbWwHJAwC"
+  },
+  {
+   "title": "Differential Regulation of Granzyme B and C Expression in Murine Cytotoxic T and NK Cells.",
+   "year": "2007",
+   "venue": "Blood 110 (11), 2291, 2007",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:u-coK7KVo8oC"
+  },
+  {
+   "title": "Cytotoxic lymphocytes require granzymes for effective tumor cell killing in vivo.",
+   "year": "2003",
+   "venue": "Blood 102 (11), 287A-287A, 2003",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:4fKUyHm3Qg0C"
+  },
+  {
+   "title": "Efficient generation of acute promyelocytic leukemia in mice using a PML/RARA cDNA\" knocked-in\" to the murine cathepsin G locus requires CRE-mediated excision of a linked …",
+   "year": "1998",
+   "venue": "Blood 92 (10), 211A-211A, 1998",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:Fu2w8maKXqMC"
+  },
+  {
+   "title": "Mice lacking neutrophil elastase mutation derived from patients with severe congenital neutropenia have normal granulopoiesis",
+   "year": "1998",
+   "venue": "Nat Med 4, 615-618, 1998",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:_Ybze24A_UAC"
+  },
+  {
+   "title": "Regulation of azurophil granule-associated serine protease genes during myelopoiesis",
+   "year": "1996",
+   "venue": "Current opinion in hematology 3 (1), 55-62, 1996",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:edDO8Oi4QzsC"
+  },
+  {
+   "title": "Transcriptional regulation of human gamma globin gene expression",
+   "year": "1989",
+   "venue": "Progress in clinical and biological research 316, 149-162, 1989",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:4X0JR2_MtJMC"
+  },
+  {
+   "title": "Increases in fetal hemoglobin using cell-cycle specific agents: Lessons from in vitro culture systems",
+   "year": "1988",
+   "venue": "Regulation of Erythropoiesis, 111-116, 1988",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:HeT0ZceujKMC"
+  },
+  {
+   "title": "Induction of fgr Proto-oncogene mRNA in B Lymphocytes as a Consequence of Epstein-Barr Virus Infection",
+   "year": "1986",
+   "venue": "Mechanisms in B-Cell Neoplasia: Workshop at the National Cancer Institute …, 1986",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:JWITY9-sCbMC"
+  },
+  {
+   "title": "\" Silent\" nucleotide substitution in codon 24 of a beta+ thalassemia globin gene activates splice site in coding sequence RNA",
+   "year": "1983",
+   "venue": "Progress in clinical and biological research 134, 123-126, 1983",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:w1MjKQ0l0TYC"
+  },
+  {
+   "title": "5-Aza-cytidine permits its expression on the β-globin gene of K-562 human leukemia cells",
+   "year": "1983",
+   "venue": "Blood 62 (Suppl 1), 72a, 1983",
+   "num_citations": 3,
+   "author_pub_id": "b9C-eUQAAAAJ:mvPsJ3kp5DgC"
+  },
+  {
+   "title": "Overexpression of the signaling coordinator GAB2 can play an important role in acute myeloid leukemia progression",
+   "year": "2025",
+   "venue": "The Journal of Clinical Investigation 135 (21), 2025",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:rqnDXT1GswoC"
+  },
+  {
+   "title": "Evaluation of long-read genome sequencing for genomic profiling of myeloid cancers",
+   "year": "2025",
+   "venue": "The Journal of Molecular Diagnostics, 2025",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:DquSII9TDu4C"
+  },
+  {
+   "title": "Rapid and accurate remethylation of Dnmt3a deficient hematopoietic cells with restoration of DNMT3A activity",
+   "year": "2023",
+   "venue": "Blood 142, 4124, 2023",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:PuOEWVtPfzwC"
+  },
+  {
+   "title": "Author Correction: Analyses of non-coding somatic drivers in 2,658 cancer whole genomes",
+   "year": "2023",
+   "venue": "Nature 614 (7948), E40-E40, 2023",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:inmFHauC9wsC"
+  },
+  {
+   "title": "Author Correction: Pan-cancer analysis of whole genomes (Nature,(2020), 578, 7793,(82-93), 10.1038/s41586-020-1969-6)",
+   "year": "2023",
+   "venue": "Nature 614 (7948), E39-E39, 2023",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:d4tt_xEv1X8C"
+  },
+  {
+   "title": "Author Correction: A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing",
+   "year": "2022",
+   "venue": "Nature communications 13, 4216, 2022",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:In6cVmBjs0IC"
+  },
+  {
+   "title": "DNMT3AR882 alters the Epigenome of hematopoietic cells",
+   "year": "2019",
+   "venue": "Blood 134, 112, 2019",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:zwpXiJ37cpgC"
+  },
+  {
+   "title": "MIR142 loss-of-function mutations promote leukemogenesis through derepression of ASH1L resulting in increased HOX gene expression",
+   "year": "2016",
+   "venue": "Blood 128 (22), 2718, 2016",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+   "title": "Dynamic changes in the clonal structure of MDS and AML in response to epigenetic therapy",
+   "year": "2015",
+   "venue": "Blood, The Journal of the American Society of Hematology 126 (23), 610-610, 2015",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:PYBJJbyH-FwC"
+  },
+  {
+   "title": "Characterization of snoRNA expression in acute myeloid leukemia",
+   "year": "2015",
+   "venue": "Blood 126 (23), 3649, 2015",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+   "title": "The role of early TP53 mutations on the evolution of therapy-related AML",
+   "year": "2013",
+   "venue": "Blood, The Journal of the American Society of Hematology 122 (21), 5-5, 2013",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:3MwzVuqRcA0C"
+  },
+  {
+   "title": "Clonal Evolution Revealed by Whole Genome Sequencing in a Case of Primary Myelofibrosis Transformed to Secondary Acute Myeloid Leukemia",
+   "year": "2012",
+   "venue": "Blood, The Journal of the American Society of Hematology 120 (21), 706-706, 2012",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:cK4Rrx0J3m0C"
+  },
+  {
+   "title": "Complete Sequencing and Comparison of 12 Normal Karyotype M1 AML Genomes with 12 t (15; 17) Positive M3-APL Genomes",
+   "year": "2011",
+   "venue": "Blood 118 (21), 404, 2011",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:4fGpz3EwCPoC"
+  },
+  {
+   "title": "The Expression Signature of M3 AML Suggests Direct and Indirect Effects of PML-RARA on Target Genes.",
+   "year": "2007",
+   "venue": "Blood 110 (11), 719, 2007",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:w0F2JDEymm0C"
+  },
+  {
+   "title": "Identification of Polymorphisms Associated with Susceptibility to Therapy-Related MDS and AML.",
+   "year": "2007",
+   "venue": "Blood 110 (11), 15, 2007",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:7Hz3ACDFbsoC"
+  },
+  {
+   "title": "Stanley Joel Korsmeyer (1950-2005)",
+   "year": "2005",
+   "venue": "Science 308 (5723), 803-804, 2005",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:KNjnJ3z-R6IC"
+  },
+  {
+   "title": "PML-RAR alpha kills U937 cells: A novel activity of PML-RAR alpha that may contribute to APL pathogenesis.",
+   "year": "2002",
+   "venue": "Blood 100 (11), 538A-538A, 2002",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:5awf1xo2G04C"
+  },
+  {
+   "title": "Impaired host defense against bacterial infection in mice lacking neutrophil elastase",
+   "year": "1998",
+   "venue": "Nature Med, 1998",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:YOwf2qJgpHMC"
+  },
+  {
+   "title": "The use of''knock-in''targeted transgenesis to direct exogenous gene expression to discrete stages of hematopoietic development.",
+   "year": "1997",
+   "venue": "Blood 90 (10), 1435-1435, 1997",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:9Nmd_mFXekcC"
+  },
+  {
+   "title": "Early myeloid expression of a PML-RAR alpha fusion gene associated with acute promyelocytic leukemia (APML) in transgenic mice alters myeloid development.",
+   "year": "1995",
+   "venue": "Blood 86 (10), 1708-1708, 1995",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:k8Z6L05lTy4C"
+  },
+  {
+   "title": "The human mast cell chymase gene: Lineage-restricted expression and mapping to the cathepsin G gene cluster",
+   "year": "1993",
+   "venue": "Genomics 15, 614, 1993",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:HoB7MX3m0LUC"
+  },
+  {
+   "title": "Globin gene expression in somatic cell hybrids.",
+   "year": "1983",
+   "venue": "Progress in Clinical and Biological Research 134, 39-52, 1983",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:eJXPG6dFmWUC"
+  },
+  {
+   "title": "W., RL Wesselschmidt, S. Shresta, JH Russell, and TJ Ley. 1994. Cytotoxic lymphocytes require granzyme B for the rapid induction of DNA fragmentation and apoptosis in …",
+   "year": "",
+   "venue": "Cell 76, 977, 0",
+   "num_citations": 2,
+   "author_pub_id": "b9C-eUQAAAAJ:lSLTfruPkqcC"
+  },
+  {
+   "title": "Consolidation therapy based on mutation clearance in acute myeloid leukemia",
+   "year": "2026",
+   "venue": "NEJM evidence 5 (9), EVIDoa2500352, 2026",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:wGzT3bKASkAC"
+  },
+  {
+   "title": "Reduced CBFB expression causes compensatory upregulation of RUNX1 expression, defining a feedback loop that may be relevant for AML pathogenesis",
+   "year": "2024",
+   "venue": "Blood 144, 4107, 2024",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:g_UdREhPGEoC"
+  },
+  {
+   "title": "Clearance of leukemia associated mutations (LAMs) after induction therapy is associated with favorable outcomes in intermediate risk acute myeloid leukemia: interim results of …",
+   "year": "2024",
+   "venue": "Blood 144 (Supplement 1), 224-224, 2024",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:Kqc1aDSOPooC"
+  },
+  {
+   "title": "VISTA As a Mediator of Immune Suppression in AML Initiated By DNMT3A and NPM1 mutations",
+   "year": "2024",
+   "venue": "Blood 144, 4100, 2024",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:idthP5jqfYAC"
+  },
+  {
+   "title": "Methods and compositions for treatment of cancer",
+   "year": "2023",
+   "venue": "US Patent 11,696,926, 2023",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:hGdtkIFZdKAC"
+  },
+  {
+   "title": "The Protein Interactome of DNMT3A, and Altered Interactions Caused By Missense Mutations Associated with AML and/or the DNMT3A Overgrowth Syndrome",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:YPNY0knpFBYC"
+  },
+  {
+   "title": "A comprehensive reassessment of the direct DNA binding sites of PML-RARA within the genomes of primary hematopoietic progenitor cells, and their effects on chromatin structure …",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:3_LpOwP6eMYC"
+  },
+  {
+   "title": "The Protein Interactomes of CBFB-MYH11 and RUNX1-RUNX1T1 Suggest Different Mechanisms of Action for Initiating Acute Myeloid Leukemia",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:H7nrzBkawXsC"
+  },
+  {
+   "title": "Adverse outcomes in acute myeloid leukemia are associated with tumor cell-mediated immunosuppression",
+   "year": "2021",
+   "venue": "Blood 138, 800, 2021",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:m4fbC6XIj1kC"
+  },
+  {
+   "title": "Immune Escape of AML Cells after Transplantation",
+   "year": "2019",
+   "venue": "New England Journal of Medicine 380 (13), 1290, 2019",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:2ywjKiB__4kC"
+  },
+  {
+   "title": "Evidence for Complete Mutation Clearance in Normal Karyotype AML Patients with Very Long (> 5 years) Remissions after Chemotherapy Alone",
+   "year": "2018",
+   "venue": "Blood 132, 1503, 2018",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:2v_ZtQDX9iAC"
+  },
+  {
+   "title": "Ultra-Deep Sequencing As a Predictive Tool for MDS Progression after Allogeneic Hematopoietic Cell Transplant",
+   "year": "2017",
+   "venue": "Blood 130, 1669, 2017",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:DBa1UEJaJKAC"
+  },
+  {
+   "title": "Subclonal evolution characterizes MDS disease progression following allogeneic stem cell transplant",
+   "year": "2017",
+   "venue": "Blood 130, 4232, 2017",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:lgwcVrK6X84C"
+  },
+  {
+   "title": "Clonal Evolution and Relapse in Adult De Novo Acute Myeloid Leukemia",
+   "year": "2017",
+   "venue": "Blood, The Journal of the American Society of Hematology 130 (Suppl_1), SCI …, 2017",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:j7_hQOaDUrUC"
+  },
+  {
+   "title": "Clonal evolution of acute myeloid leukemia following allogeneic stem cell transplantation",
+   "year": "2016",
+   "venue": "Blood 128 (22), 1528, 2016",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:OP4eGU-M3BUC"
+  },
+  {
+   "title": "Dynamic changes in clonal clearance with decitabine therapy in AML and MDS patients",
+   "year": "2015",
+   "venue": "Blood 126 (23), 689, 2015",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:hCrLmN-GePgC"
+  },
+  {
+   "title": "Metastatic colorectal cancer associated long non-coding RNAs identified by transcriptome sequencing of matched primary and metastatic patient tissues",
+   "year": "2015",
+   "venue": "Cancer Research 75 (15_Supplement), 169-169, 2015",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:fbc8zXXH2BUC"
+  },
+  {
+   "title": "DNMT3A R882H overexpression acts in a dominant negative manner to cause DNA hypomethylation and increased susceptibility to hematopoietic malignancies in transgenic mice",
+   "year": "2014",
+   "venue": "Blood 124 (21), 609, 2014",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:-nhnvRiOwuoC"
+  },
+  {
+   "title": "Myeloproliferative Disease and Myeloid Leukemia in Dnmt3a Haploinsufficient Mice",
+   "year": "2014",
+   "venue": "Blood 124 (21), 890, 2014",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:OBSaB-F7qqsC"
+  },
+  {
+   "title": "Functional Early Hematopoietic Progenitor Cells Derived From Mouse Embryonic Stem Cells and Induced Pluripotent Stem Cells",
+   "year": "2013",
+   "venue": "Blood 122 (21), 2421, 2013",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:YohjEiUPhakC"
+  },
+  {
+   "title": "Dysregulation of the imprinted DLK1-DIO3 locus in promyelocytic leukemia",
+   "year": "2012",
+   "venue": "Blood 120 (21), 3500, 2012",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:9c2xU6iGI7YC"
+  },
+  {
+   "title": "Functional Hematopoietic Cells Derived From Mouse Embryonic Stem Cells.",
+   "year": "2012",
+   "venue": "Blood, The Journal of the American Society of Hematology 120 (21), 2304-2304, 2012",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:IUKN3-7HHlwC"
+  },
+  {
+   "title": "Whole genome sequencing of therapy-related acute myeloid leukemia",
+   "year": "2012",
+   "venue": "Blood 120 (21), 784, 2012",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:kh2fBNsKQNwC"
+  },
+  {
+   "title": "Transcriptome Sequence Analysis of Pediatric Acute Megakaryoblastic Leukemia Identifies An Inv (16)(p13. 3; q24. 3)-Encoded CBFA2T3-GLIS2 Fusion Protein As a Recurrent Lesion …",
+   "year": "2011",
+   "venue": "Blood, The Journal of the American Society of Hematology 118 (21), 757-757, 2011",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:dBIO0h50nwkC"
+  },
+  {
+   "title": "Mutations In the DNA Methyltransferase Gene DNMT3A Are Highly Recurrent In Patients with Intermediate Risk Acute Myeloid Leukemia, and Predict Poor Outcomes",
+   "year": "2010",
+   "venue": "Blood 116 (21), 99, 2010",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:anf4URPfarAC"
+  },
+  {
+   "title": "MCL1 Haploinsufficiency Protects Mice From MYC-Induced Acute Myeloid Leukemia.",
+   "year": "2009",
+   "venue": "Blood, The Journal of the American Society of Hematology 114 (22), 764-764, 2009",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:7wO8s98CvbsC"
+  },
+  {
+   "title": "Latent Murine Herpesvirus-4 Infection Arms NK Cells.",
+   "year": "2009",
+   "venue": "Blood, The Journal of the American Society of Hematology 114 (22), 3678-3678, 2009",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:2tRrZ1ZAMYUC"
+  },
+  {
+   "title": "Comprehensive Evaluation of MicroRNA Genes and Gene Expression Using Next Generation Sequencing in a Patient with Acute Myelogenous Leukemia.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 271, 2009",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:ruyezt5ZtCIC"
+  },
+  {
+   "title": "The unique roles of murine granzymes (Gzm) A and B for NK-dependent tumor cell killing and regulatory T cell control of NK cells",
+   "year": "2006",
+   "venue": "CANCER RESEARCH 66 (8), 2006",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:ClCfbGk0d_YC"
+  },
+  {
+   "title": "Genomic DNA Copy Number Alterations Present in AML Bone Marrow Samples with Normal Cytogenetics.",
+   "year": "2004",
+   "venue": "Blood, The Journal of the American Society of Hematology 104 (11), 142-142, 2004",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:GtLg2Ama23sC"
+  },
+  {
+   "title": "1998 ASCI Presidential Address",
+   "year": "2003",
+   "venue": "The Journal of Clinical Investigation 112 (12), S9, 2003",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:CB2v5VPnA5kC"
+  },
+  {
+   "title": "Lack of neighborhood effects from a retained pgk-neocassette located between the murine β-major and β-minor globin genes",
+   "year": "2000",
+   "venue": "Blood 96 (11 PART I), 234a, 2000",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:Ug5p-4gJ2f0C"
+  },
+  {
+   "title": "Acquired, non-random chromosomal abnormalities associated with the development of acute promyelocytic leukemia (APL) in transgenic mice.",
+   "year": "2000",
+   "venue": "Blood 96 (11), 827A-827A, 2000",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:8d8msizDQcsC"
+  },
+  {
+   "title": "Immunologic responses directed against APML cells.",
+   "year": "1999",
+   "venue": "Blood 94 (10), 81A-81A, 1999",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:_FM0Bhl9EiAC"
+  },
+  {
+   "title": "Cytotoxic lymphocytes (CTL) derived from mice deficient for granzymes A and B have an unexpected defect in cytotoxicity.",
+   "year": "1996",
+   "venue": "Blood 88 (10), 1738-1738, 1996",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:0N-VGjzr574C"
+  },
+  {
+   "title": "Function of transfected globin promoters and the globin locus activator in K562 erythroleukemia cells.",
+   "year": "1990",
+   "venue": "Annals of the New York Academy of Sciences 612, 207-214, 1990",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:URolC5Kub84C"
+  },
+  {
+   "title": "A transient assay system to study gamma globin gene expression in K562 cells.",
+   "year": "1987",
+   "venue": "Progress in Clinical and Biological Research 251, 189-200, 1987",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:_axFR9aDTf0C"
+  },
+  {
+   "title": "Analgesics and NSAID",
+   "year": "1985",
+   "venue": "Futura Pub Co, 1985",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:natZJ_-F0IUC"
+  },
+  {
+   "title": "Β0-39 thalassemia gene: a premature termination codon causes β-mRNA deficiency without affecting cytoplasmic β-mRNA stability",
+   "year": "1984",
+   "venue": "Blood 64 (1), 23-32, 1984",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:q-HalDI95KYC"
+  },
+  {
+   "title": "Disseminated infection caused by Cunninghamella bertho",
+   "year": "",
+   "venue": "etiae, 0",
+   "num_citations": 1,
+   "author_pub_id": "b9C-eUQAAAAJ:LO7wyVUgiFcC"
+  },
+  {
+   "title": "Predoctoral grant writing among physician-scientist trainees: A national survey of barriers and facilitators of success",
+   "year": "2026",
+   "venue": "JCI insight, 2026",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:BW2nPTmhBn4C"
+  },
+  {
+   "title": "Recurrent Transcriptional Responses in AML and MDS patients Treated with Decitabine (vol 111, pg 50, 2022)",
+   "year": "2026",
+   "venue": "EXPERIMENTAL HEMATOLOGY 158, 2026",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:qPeb-qHga9sC"
+  },
+  {
+   "title": "Corrigendum to “Recurrent Transcriptional Responses in AML and MDS patients Treated with Decitabine” Experimental Hematology. 2022; 111: 50-65",
+   "year": "2026",
+   "venue": "Experimental Hematology 158, 105407, 2026",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:G36d5HCDkJYC"
+  },
+  {
+   "title": "Long-read cDNA sequencing reveals novel isoforms and spliceosome-mutant-enriched transcripts in AML and MDS",
+   "year": "2026",
+   "venue": "bioRxiv, 2026.05. 20.726635, 2026",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:wuD5JclIwkYC"
+  },
+  {
+   "title": "Missense mutations in the PWWP domain of DNMT3A can cause cytoplasmic mislocalization of DNMT3A in AML cells",
+   "year": "2025",
+   "venue": "Blood 146, 1466, 2025",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:q1zXlPLtbUIC"
+  },
+  {
+   "title": "Heterogeneity of immune escape mechanisms in de novo Acute Myeloid Leukemia",
+   "year": "2025",
+   "venue": "Blood 146, 5275, 2025",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:7VEv-pLvLSsC"
+  },
+  {
+   "title": "A prospective Study of whole genome sequencing for genomic profiling and risk determination in MDS",
+   "year": "2025",
+   "venue": "Blood 146, 5640, 2025",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:cRMvf6lLvU8C"
+  },
+  {
+   "title": "Mechanisms of chemotherapy resistance driven by Mecom overexpression",
+   "year": "2025",
+   "venue": "Blood 146, 3287, 2025",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Vztgr1qGG8IC"
+  },
+  {
+   "title": "Methods and compositions for enhancement of tumor immunogenicity and stimulating anti-tumor immune responses in an animal",
+   "year": "2025",
+   "venue": "US Patent App. 18/726,712, 2025",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:4n0clTBhZ78C"
+  },
+  {
+   "title": "Methods and compositions for treating dnmt3a deficiency-associated diseases",
+   "year": "2024",
+   "venue": "US Patent App. 18/620,632, 2024",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:NtCmTCuxid4C"
+  },
+  {
+   "title": "Recurrent Amplification of Chromosome 7 in Murine AML with Dnmt3aR878H and Npm1cA Mutations Identifies Gab2 As a Possible Therapeutic Target in AML",
+   "year": "2024",
+   "venue": "Blood 144, 1333, 2024",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WzTVkKNmPSkC"
+  },
+  {
+   "title": "CBFB::MYH11 expression activates Trp53 in myeloid cells, which inhibits cell growth and sensitizes cells to cytarabine",
+   "year": "2024",
+   "venue": "Cancer Research 84 (6_Supplement), 5589-5589, 2024",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:QaSi33NTfwYC"
+  },
+  {
+   "title": "L'urbanisation et la gouvernance du littoral: l'illustration de l'obsolescence d'un modèle d'aménagement: politiques et croissances urbaines du littoral occitan, 60 ans après …",
+   "year": "2024",
+   "venue": "Université de Perpignan, 2024",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:8VtEwCQfWZkC"
+  },
+  {
+   "title": "Please let us know how this document benefits you.",
+   "year": "2024",
+   "venue": "Mol Cancer Ther 23, 1494-510, 2024",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:kUhpeDhEZMUC"
+  },
+  {
+   "title": "Mechanisms of PML:: Rara and GATA2 Protein Interactions in Hematopoietic Cells",
+   "year": "2023",
+   "venue": "Blood 142, 2758, 2023",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:J3LtWjKFLicC"
+  },
+  {
+   "title": "Assessment of T-Cell Receptor (TCR) Mediated T-Cell Activation in Acute Myeloid Leukemia at Diagnosis Has Implications for Risk Stratification and Response to Immune Checkpoint …",
+   "year": "2023",
+   "venue": "Blood 142, 2928, 2023",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:vnF2_uLGgtgC"
+  },
+  {
+   "title": "Overexpression of the Signaling Integrator Gab2 Accelerates AML Development in Mice with Dnmt3a R878Hand Npm1 cA Mutations",
+   "year": "2023",
+   "venue": "Blood 142, 2752, 2023",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:BAanoTsO0WEC"
+  },
+  {
+   "title": "Re-Sensitization of Allogeneic T Cell Resistant Murine AML with Pegylated IFN-Gamma",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:xGWFX6Gbr9MC"
+  },
+  {
+   "title": "Spatial Organization of Hematopoietic Clones in the Bone Marrow of a Patient with Polycythemia Vera",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:TesyEGJKHF4C"
+  },
+  {
+   "title": "MYC Influences mRNA Processing and Nuclear Export to Initiate Acute Myeloid Leukemia",
+   "year": "2022",
+   "venue": "Blood, The Journal of the American Society of Hematology 140 (Supplement 1 …, 2022",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:I8rxH6phXEkC"
+  },
+  {
+   "title": "A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing (vol 10, 3660, 2019)",
+   "year": "2022",
+   "venue": "NATURE COMMUNICATIONS 13 (1), 2022",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:RMgMIBzvq-4C"
+  },
+  {
+   "title": "Decitabine salvage for Tumor Protein P53-mutated, relapsed/refractory acute myeloid leukemia after cytotoxic induction therapy",
+   "year": "2022",
+   "venue": "Haematologica, 2022",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:I858iXPj1OkC"
+  },
+  {
+   "title": "Dnmt3a Inactivation Leads to Slow DNA Methylation Loss in Murine Hematopoietic Cells In Vivo",
+   "year": "2021",
+   "venue": "Blood 138, 1087, 2021",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:wUn16MOA3RoC"
+  },
+  {
+   "title": "Analysis of the Proteomes of Primary, De Novo Acute Myeloid Leukemia Cells from Adults",
+   "year": "2021",
+   "venue": "Blood 138, 3427, 2021",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:m92CDrhVnKEC"
+  },
+  {
+   "title": "Immunosuppression and Outcomes in Acute Myeloid Leukemia",
+   "year": "2021",
+   "venue": "bioRxiv, 2021.09. 03.458879, 2021",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yY3RG6sOEgwC"
+  },
+  {
+   "title": "Genome-wide analysis of focal DNA hypermethylation in IDH-mutant AML samples",
+   "year": "2021",
+   "venue": "bioRxiv, 2021.03. 03.433799, 2021",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:z8nqeaKD1nsC"
+  },
+  {
+   "title": "Molecular Profiling of Decitabine Response in MDS and AML Patients",
+   "year": "2020",
+   "venue": "Blood 136, 40, 2020",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:X0DADzN9RKwC"
+  },
+  {
+   "title": "Signaling Gene Mutations Are Characterized By Diverse Patterns of Expansion and Contraction during Progression from MDS to Secondary AML",
+   "year": "2020",
+   "venue": "Blood 136, 2-3, 2020",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:TaaCk18tZOkC"
+  },
+  {
+   "title": "Comparison of Deep Whole Exome Versus Targeted Gene Sequencing for Assessment of Persistent Molecular Disease in Acute Myeloid Leukemia Samples",
+   "year": "2020",
+   "venue": "Blood 136, 6-7, 2020",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:_AeoHAGD03cC"
+  },
+  {
+   "title": "Single-cell RNA-sequencing Reveals Transcriptional Changes and Clonal Architecture associated with Post-Transplant Relapse in Acute Myeloid Leukemia",
+   "year": "2020",
+   "venue": "OSF, 2020",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:V_vSwabWVtYC"
+  },
+  {
+   "title": "Whole Genome Bisulfite Sequencing of 63 Primary AML Samples Identifies a Unique DNA Hypermethylation Signature for Mutant IDH1/2 Cases That Is Different from That of TET2 …",
+   "year": "2019",
+   "venue": "Blood 134, 3755, 2019",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:NMlhSUseqAsC"
+  },
+  {
+   "title": "The Molecular Basis of Long First Remissions in Normal Karyotype AML Patients",
+   "year": "2019",
+   "venue": "Blood 134, 3827, 2019",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:H_jBuBxbQIAC"
+  },
+  {
+   "title": "Gata2 Expression and Function in PML-RARA-driven Preleukemia and APL",
+   "year": "2019",
+   "venue": "Blood 134, 534, 2019",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:CNPyR2KL9-0C"
+  },
+  {
+   "title": "LB1135 Altered cell populations in Dnmt3a-deficient murine epidermis",
+   "year": "2019",
+   "venue": "Journal of Investigative Dermatology 139 (9), B23, 2019",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:T_ojBgVMvoEC"
+  },
+  {
+   "title": "Improving Risk Assessment of AML with a Precision Genomic Strategy to Assess Mutation Clearance",
+   "year": "2018",
+   "venue": "Blood, The Journal of the American Society of Hematology 132 (Supplement 1 …, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:8Xgff_V0N9gC"
+  },
+  {
+   "title": "Direct Detection of Expressed Mutations in AML Cells Using Single Cell RNA-Sequencing, and Its Impact on Defining Sources of Expression Heterogeneity",
+   "year": "2018",
+   "venue": "Blood 132, 1314, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:qe6vwMD2xtsC"
+  },
+  {
+   "title": "1336 The de novo DNA methyltransferase DNMT3A is required for epidermal homeostasis",
+   "year": "2018",
+   "venue": "Journal of Investigative Dermatology 138 (5), S227, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:QUX0mv85b1cC"
+  },
+  {
+   "title": "Genomics and Clonal Evolution of AML",
+   "year": "2018",
+   "venue": "2018 BMT Tandem Meetings, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:hvmnpdAuIbkC"
+  },
+  {
+   "title": "Die akute Promyelozytenleukämie–Eine seltene, lebensbedrohliche Erkrankung mit hoher Heilungschance",
+   "year": "2018",
+   "venue": "DMW-Deutsche Medizinische Wochenschrift 143 (03), 152-156, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:0sTkTiv_uMkC"
+  },
+  {
+   "title": "Please let us know how this document benefits you.",
+   "year": "2018",
+   "venue": "Am J Epidemiol 187 (5), 899-910, 2018",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:as0KMg8qHbkC"
+  },
+  {
+   "title": "Generation and Characterization of Murine Allogeneic T Cell Resistant APL Cells",
+   "year": "2017",
+   "venue": "Blood 130, 3170, 2017",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:wKETBy42zhYC"
+  },
+  {
+   "title": "Dynamic Changes in MDS Clonal Architecture Following Allogeneic Stem Cell Transplant",
+   "year": "2016",
+   "venue": "Blood, The Journal of the American Society of Hematology 128 (22), 5506-5506, 2016",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:zCSUwVk65WsC"
+  },
+  {
+   "title": "DNMT3A-Dependent DNA Methylation May Act As a Tumor Suppressor-Not a Tumor Promoter-during AML Progression",
+   "year": "2016",
+   "venue": "Blood 128 (22), 1050, 2016",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:nVrZBo8bIpAC"
+  },
+  {
+   "title": "Cytotoxic Therapy Provides a Fitness Advantage to Rare HSPCs Harboring Somatic TP53 Mutations.",
+   "year": "2016",
+   "venue": "ENVIRONMENTAL AND MOLECULAR MUTAGENESIS 57, S54-S54, 2016",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jFemdcug13IC"
+  },
+  {
+   "title": "Abstract PL03-02: The AML genome (s)",
+   "year": "2016",
+   "venue": "Cancer Research 76 (14_Supplement), PL03-02-PL03-02, 2016",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+   "title": "680 A common acute myeloid leukemia-associated DNMT3A mutation, when expressed ubiquitously in mice, causes reversible alopecia",
+   "year": "2016",
+   "venue": "Journal of Investigative Dermatology 136 (5), S121, 2016",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LdasjJ6CEcoC"
+  },
+  {
+   "title": "Reprogramming of Leukemic and Pre-Leukemic Cells from Primary Human De Novo Acute Myeloid Leukemia Samples into Induced Pluripotent Stem (iPS) Cells",
+   "year": "2015",
+   "venue": "Blood 126 (23), 1862, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:pAkWuXOU-OoC"
+  },
+  {
+   "title": "Loss-of-Function Mutations of MIR142 May Contribute to Leukemogenesis By Expanding the Pool of Myeloid-Biased HSCs",
+   "year": "2015",
+   "venue": "Blood 126 (23), 1254, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:3NQIlFlcGxIC"
+  },
+  {
+   "title": "Non-Malignant Oligoclonal Hematopoiesis Commonly Follows Cytoreductive Chemotherapy in Adult De Novo AML Patients",
+   "year": "2015",
+   "venue": "Blood, The Journal of the American Society of Hematology 126 (23), 686-686, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:buQ7SEKw-1sC"
+  },
+  {
+   "title": "Specific Patterns of DNA Remethylation in the Bone Marrow Cells of Dnmt3a Deficient Mice after Induced Expression of Wild Type Human DNMT3A",
+   "year": "2015",
+   "venue": "Blood 126 (23), 433, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:AHdEip9mkN0C"
+  },
+  {
+   "title": "Detection of Clonal Hematopoiesis in Cytopenic Patients Using Targeted Sequencing",
+   "year": "2015",
+   "venue": "Blood 126 (23), 1654, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:5MTHONV0fEkC"
+  },
+  {
+   "title": "DNMT3A R882H Can Cooperate with FLT3-ITD to Cause AML in Mice",
+   "year": "2015",
+   "venue": "Blood 126 (23), 2458, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Ehil0879vHcC"
+  },
+  {
+   "title": "Ultra-deep whole-genome sequencing reveals clinically relevant low-frequency subclones in an acute myeloid leukemia",
+   "year": "2015",
+   "venue": "CANCER RESEARCH 75 (22), 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:YlPif8NxrbYC"
+  },
+  {
+   "title": "Abstract A1-13: Ultra-deep whole-genome sequencing reveals clinically relevant low-frequency subclones in an acute myeloid leukemia",
+   "year": "2015",
+   "venue": "Cancer Research 75 (22_Supplement_1), A1-13-A1-13, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:AXkvAH5U_nMC"
+  },
+  {
+   "title": "Abstract A1-44: Clinical cancer sequencing and integrated analysis of whole genomes, exomes and transcriptomes",
+   "year": "2015",
+   "venue": "Cancer Research 75 (22_Supplement_1), A1-44-A1-44, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:CaZNVDsoPx4C"
+  },
+  {
+   "title": "Inactiviation of the Histone H3K27 Demethylase UTX/KDM6A Gene Cooperates with Activated KRAAS in a Lung Carcinogenisis Model Evaluated by MicroPET-CT Imaging",
+   "year": "2015",
+   "venue": "International Journal of Radiation Oncology, Biology, Physics 93 (3), S73, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:6yz0xqPARnAC"
+  },
+  {
+   "title": "A model to assess clonal evolution of metastatic colorectal cancer during chemotherapy utilizing patient derived xenografts",
+   "year": "2015",
+   "venue": "Cancer Research 75 (15_Supplement), 3878-3878, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:ubry08Y2EpUC"
+  },
+  {
+   "title": "Clonal evolution of metastatic colorectal cancer",
+   "year": "2015",
+   "venue": "Cancer Research 75 (15_Supplement), 4109-4109, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:ALROH1vI_8AC"
+  },
+  {
+   "title": "All Publications",
+   "year": "2015",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:hHIA4WEVY-EC"
+  },
+  {
+   "title": "Role of TP53 Mutations in the Origin and Evolution of Therapy-Related Acute Myeloid Leukemia",
+   "year": "2015",
+   "venue": "ANNALS OF HEMATOLOGY 94, S60-S62, 2015",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:gKiMpY-AVTkC"
+  },
+  {
+   "title": "Quantifying ultra-rare pre-leukemic clones via targeted error-corrected sequencing OPEN",
+   "year": "2015",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:UuEBAcK4md4C"
+  },
+  {
+   "title": "Blood First Edition Paper, prepublished online December 2, 2015; DOI 10.1182/blood-2015-10-677021",
+   "year": "2015",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:O0nohqN1r9EC"
+  },
+  {
+   "title": "Rare Hematopoietic Subclones Harboring Leukemogenic TP53 Mutations Are Detectable Via Error-Corrected Sequencing in Healthy Elderly Individuals",
+   "year": "2014",
+   "venue": "Blood 124 (21), 2907, 2014",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:kw52XkFRtyQC"
+  },
+  {
+   "title": "Whole Genome Bisulfite Sequencing of Purified Mouse Promyelocytes Reveals Differentially Methylated Regions in Cells Expressing PML-Rara",
+   "year": "2014",
+   "venue": "Blood 124 (21), 3531, 2014",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:gVv57TyPmFsC"
+  },
+  {
+   "title": "Detection of Recurrent Copy Number Alterations in Targeted Acute Myeloid Leukemia Sequencing Panels",
+   "year": "2014",
+   "venue": "JOURNAL OF MOLECULAR DIAGNOSTICS 16 (6), 722-722, 2014",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Bg7qf7VwUHIC"
+  },
+  {
+   "title": "The AML Genome (s)",
+   "year": "2014",
+   "venue": "Experimental Hematology 42 (8), S9, 2014",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:QD3KBmkZPeQC"
+  },
+  {
+   "title": "R882H DNMT3A Causes Dominant-Negative Inhibition Of WT DNMT3A",
+   "year": "2013",
+   "venue": "Blood 122 (21), 3812, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:PyEswDtIyv0C"
+  },
+  {
+   "title": "Dnmt3a is Required For Aberrant Self-Renewal Driven by PML-RARA",
+   "year": "2013",
+   "venue": "Blood 122 (21), 477, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:1yWc8FF-_SYC"
+  },
+  {
+   "title": "Comprehensive Analysis Of HOX Gene Expression and DNA Methylation From 189 Primary AMLs Demonstrates Canonical Patterns Associated With Hematopoietic Stem/Progenitors and …",
+   "year": "2013",
+   "venue": "Blood 122 (21), 2496, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:v1_lew4L6wgC"
+  },
+  {
+   "title": "Subclonal “skewing” Of De Novo AML Samples After Engraftment In Immunodeficient Mice",
+   "year": "2013",
+   "venue": "Blood 122 (21), 609, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:HIFyuExEbWQC"
+  },
+  {
+   "title": "Abstract LB-232: Tumor clonality detection using next generation sequencing data.",
+   "year": "2013",
+   "venue": "Cancer Research 73 (8_Supplement), LB-232-LB-232, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yFnVuubrUp4C"
+  },
+  {
+   "title": "Use of Targeted Deep Sequencing To Analyze the Genomic Similarities of Concurrent Acute Myeloid Leukemia in the Peripheral Blood and Bone Marrow",
+   "year": "2013",
+   "venue": "LABORATORY INVESTIGATION 93, 435A-435A, 2013",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:tH6gc1N1XXoC"
+  },
+  {
+   "title": "The De Novo DNA Methylation Activity of WT DNMT3A Is Inhibited by R882H DNMT3A and DNMT3B3 in Vitro",
+   "year": "2012",
+   "venue": "Blood, The Journal of the American Society of Hematology 120 (21), 1329-1329, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:rHJHxKgnXwkC"
+  },
+  {
+   "title": "Whole Genome Sequencing Reveals Novel Recurring Somatic Mutations Affecting HUWE1 and DIAPH2 Genes in Multiple Myeloma",
+   "year": "2012",
+   "venue": "Blood 120 (21), 320, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:CdxZDUztZiMC"
+  },
+  {
+   "title": "Deep Digital Sequencing Identifies an AML Subclone with Enhanced in Vitro and in Vivo Growth Properties Associated with Disease Relapse",
+   "year": "2012",
+   "venue": "Blood 120 (21), 407, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WHdLCjDvYFkC"
+  },
+  {
+   "title": "Next-Generation Sequencing: A Discovery Tool for Blood Disorders",
+   "year": "2012",
+   "venue": "Blood, The Journal of the American Society of Hematology 120 (21), SCI-10-SCI-10, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:F9fV5C73w3QC"
+  },
+  {
+   "title": "In Vitro Decitabine Treatment Demonstrates Heterogeneous Changes in Methylation and Gene Expression in Primary AML Samples.",
+   "year": "2012",
+   "venue": "Blood, The Journal of the American Society of Hematology 120 (21), 2527-2527, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:cWzG1nlazyYC"
+  },
+  {
+   "title": "The Pediatric Cancer Genome Project (vol 44, pg 619, 2012)",
+   "year": "2012",
+   "venue": "NATURE GENETICS 44 (9), 1072-1072, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:cB__R-XWw9UC"
+  },
+  {
+   "title": "Abstract LB-423: Whole genome comparisons of pre-and post-aromatase inhibitor treatment in estrogen receptor positive breast cancer",
+   "year": "2012",
+   "venue": "Cancer Research 72 (8_Supplement), LB-423-LB-423, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Dem6FJhTUoYC"
+  },
+  {
+   "title": "Identification of an inv(16)-encoded CBFA2T3-GLIS2 fusion protein in 34% of non-infant acute megkaryoblastic leukemias: A report from the Pediatric Cancer …",
+   "year": "2012",
+   "venue": "Cancer Research 72 (8_Supplement), 4867-4867, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:qjMakFHDy7sC"
+  },
+  {
+   "title": "NEWS & VIEWS–Research Highlights",
+   "year": "2012",
+   "venue": "leukemia 150 (2), 264-278, 2012",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:CMvovTBb2okC"
+  },
+  {
+   "title": "Activation of Notch Signaling Is An Early Event in the Development of PML-Rara-Induced Acute Promyelocytic Leukemia (APL)",
+   "year": "2011",
+   "venue": "Blood 118 (21), 2468, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:prdVHNxh-e8C"
+  },
+  {
+   "title": "Discovery of Novel Recurrent Mutations in Childhood Early T-Cell Precursor Acute Lymphoblastic Leukemia by Whole Genome Sequencing-a Report From the St Jude Children's Research …",
+   "year": "2011",
+   "venue": "Blood, The Journal of the American Society of Hematology 118 (21), 68-68, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:BzfGm06jWhQC"
+  },
+  {
+   "title": "Whole-Genome Sequencing and Acute Promyelocytic Leukemia—Reply",
+   "year": "2011",
+   "venue": "JAMA 306 (6), 610-611, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jE2MZjpN3IcC"
+  },
+  {
+   "title": "242 Genomics of myelodysplastic syndromes",
+   "year": "2011",
+   "venue": "Leukemia Research 35, S95, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:umqufdRvDiIC"
+  },
+  {
+   "title": "Cryptic Insertional PML-RARA Translocations",
+   "year": "2011",
+   "venue": "LABORATORY INVESTIGATION 91, 305A-305A, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:owLR8QvbtFgC"
+  },
+  {
+   "title": "Discovery of Novel Mutations in Myelodysplastic Syndrome and Acute Myeloid Leukemia by whole Genome Sequencing",
+   "year": "2011",
+   "venue": "ANNALS OF HEMATOLOGY 90, S49-S50, 2011",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:43bX7VzcjpAC"
+  },
+  {
+   "title": "Molecular cloning, chromosomal location, and tissue-specific",
+   "year": "2011",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:VN7nJs4JPk0C"
+  },
+  {
+   "title": "Consensus AP-1 and CRE motifs upstream from the human cytotoxic",
+   "year": "2011",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:vDZJ-YLwNdEC"
+  },
+  {
+   "title": "Resolution of a Clinical Dilemma with Whole Genome Sequencing, and Discovery of a New Mechanism for Generating PML-Rara: Insertional Fusion",
+   "year": "2010",
+   "venue": "Blood, The Journal of the American Society of Hematology 116 (21), 2755-2755, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jU7OWUQzBzMC"
+  },
+  {
+   "title": "Detection of Novel Mutations In MDS/AML by Whole Genome Sequencing",
+   "year": "2010",
+   "venue": "Blood 116 (21), 299, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:MpfHP-DdYjUC"
+  },
+  {
+   "title": "DNA Sequence of the Cancer Genome of a Patient with Therapy-Related Acute Myeloid Leukemia",
+   "year": "2010",
+   "venue": "Blood 116 (21), 580, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:kVjdVfd2voEC"
+  },
+  {
+   "title": "The NK Cell MicroRNA Transcriptome Defined by Next-Generation Sequencing Identifies IL-15-Signaled Alterations In Mature MiR-223 Expression, and MiR-223 as a Potential …",
+   "year": "2010",
+   "venue": "Blood 116 (21), 104, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:roLk4NBRz8UC"
+  },
+  {
+   "title": "Abstract B12: Complete characterization of the “microRNAome” of a human acute myeloid leukemia",
+   "year": "2010",
+   "venue": "Clinical Cancer Research 16 (14_Supplement), B12-B12, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LPtt_HFRSbwC"
+  },
+  {
+   "title": "Characterization of the microRNAome in a patient with acute myeloid leukemia.",
+   "year": "2010",
+   "venue": "Journal of Clinical Oncology 28 (15_suppl), 10501-10501, 2010",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:-7ulzOJl1JYC"
+  },
+  {
+   "title": "The Effect of Rara Haploinsufficiency in a Mouse Model of Acute Promyelocytic Leukemia.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 3475, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:7BrZ7Jt4UNcC"
+  },
+  {
+   "title": "DNA Sequencing of a Murine Acute Promyelocytic Leukemia (APL) Genome Using Next Generation Technology.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 3965, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:_OXeSy2IsFwC"
+  },
+  {
+   "title": "Chromatin Immunoprecipitation of GFP-Tagged PML-Rara Coupled to High-Throughput Next Generation Sequencing.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 1276, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:P7Ujq4OLJYoC"
+  },
+  {
+   "title": "POU4F1 Is Associated with t (8; 21) AML and Contributes Directly to Its Unique Transcriptional Signature.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 2623, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:OcBU2YAGkTUC"
+  },
+  {
+   "title": "Multiplexed Digital Quantification of mRNA Abundance: a Highly Reproducible, PCR–independent Assessment of BAALC, ERG, and MN1 mRNA Levels in Acute Myeloid Leukemia (AML) Bone …",
+   "year": "2009",
+   "venue": "Blood 114 (22), 1599, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:QYdC8u9Cj1oC"
+  },
+  {
+   "title": "Increased ROS Stress and Alterations in the Bone Marrow Microenvironment Contribute to DNA Damage in Hematopoietic Stem/Progenitors Carrying a Csf3r Truncation Mutation.",
+   "year": "2009",
+   "venue": "Blood 114 (22), 3630, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+   "title": "Acute myeloid leukemia patient genome interview",
+   "year": "2009",
+   "venue": "PERSONALIZED MEDICINE 6 (6), 621-622, 2009",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:rFyVMFCKTwsC"
+  },
+  {
+   "title": "A Protease-Resistant PML-RARα Has Increased Leukemogenic Potential in a Murine Model of Acute Promyelocytic Leukemia (APL).",
+   "year": "2008",
+   "venue": "Blood, The Journal of the American Society of Hematology 112 (11), 930-930, 2008",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:-95Q15plzcUC"
+  },
+  {
+   "title": "Sequencing Acute Myeloid Leukemia Genomes with “Next Generation” Technologies.",
+   "year": "2008",
+   "venue": "Blood, The Journal of the American Society of Hematology 112 (11), sci-36-sci-36, 2008",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+   "title": "Computational identification of the normal and perturbed genetic networks involved in myeloid differentiation and acute promyelocytic leukemia",
+   "year": "2008",
+   "venue": "Genome biology 9 (2), 1900-1900, 2008",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yJjnfzR0HrkC"
+  },
+  {
+   "title": "Identification of somatic JAK1 mutations in patients with acute myeloid leukemia. Commentary",
+   "year": "2008",
+   "venue": "Blood 111 (9), 2008",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yqoGN6RLRZoC"
+  },
+  {
+   "title": "High Resolution Array-Based CGH and SNP Studies of AML Genomes.",
+   "year": "2007",
+   "venue": "Blood, The Journal of the American Society of Hematology 110 (11), 107-107, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:-mN3Mh-tlDkC"
+  },
+  {
+   "title": "Identification of Novel, Non-Synonymous Sequence Changes in the Tyrosine Kinase Genes of Patients with Acute Myeloid Leukemia.",
+   "year": "2007",
+   "venue": "Blood, The Journal of the American Society of Hematology 110 (11), 823-823, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:GFxP56DSvIMC"
+  },
+  {
+   "title": "Sequencing an Acute Myeloid Leukemia (AML) Genome with “Next Generation” Technologies.",
+   "year": "2007",
+   "venue": "Blood 110 (11), 205, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:nZcligLrVowC"
+  },
+  {
+   "title": "Genetic Susceptibility to Therapy-Related Acute Murine Promyelocytic Leukemia.",
+   "year": "2007",
+   "venue": "Blood 110 (11), 14, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:ODE9OILHJdcC"
+  },
+  {
+   "title": "NEOPLASIA-Brief report-Expression of a bcr-1 isoform of RARa-PML does not affect the penetrance of acute promyelocytic leukemia or the acquisition of an interstitial deletion …",
+   "year": "2007",
+   "venue": "Blood 109 (3), 1237, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:X9ykpCP0fEIC"
+  },
+  {
+   "title": "Commonly dysregulated genes in murine APL cells. Commentary",
+   "year": "2007",
+   "venue": "Blood 109 (3), 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:OTTXONDVkokC"
+  },
+  {
+   "title": "Genome-wide map of mouse DNA copy number variants",
+   "year": "2007",
+   "venue": "CELLULAR ONCOLOGY 29 (2), 124-124, 2007",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WF5omc3nYNoC"
+  },
+  {
+   "title": "Murine NK Cells Require Activation-Dependent Expression of Granzyme B and Perforin To Become Potent Cytotoxic Effectors.",
+   "year": "2006",
+   "venue": "Blood, The Journal of the American Society of Hematology 108 (11), 920-920, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:DJbcl8HfkQkC"
+  },
+  {
+   "title": "Granzyme B Is Important for Treg-Mediated Suppression of NK-Dependent Tumor Clearance In Vivo.",
+   "year": "2006",
+   "venue": "Blood 108 (11), 133, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:DUooU5lO8OsC"
+  },
+  {
+   "title": "Commonly Dysregulated Genes in Murine Acute Promyelocytic Leukemia (APL) Cells.",
+   "year": "2006",
+   "venue": "Blood, The Journal of the American Society of Hematology 108 (11), 1925-1925, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:sNmaIFBj_lkC"
+  },
+  {
+   "title": "Multilineage Expansion of Lymphoid and Myeloid Cells in Mice Expressing PML-RARα under the Control of the Murine Cathepsin G Locus.",
+   "year": "2006",
+   "venue": "Blood 108 (11), 2551, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+   "title": "Physician-Scientist Training",
+   "year": "2006",
+   "venue": "JAMA: The Journal of the American Medical Association 295 (6), 623-624, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:cNe27ouKFcQC"
+  },
+  {
+   "title": "In vivo bioluminescence imaging of acute promyelocytic leukemia cell trafficking and mobilization by AMD3100",
+   "year": "2006",
+   "venue": "Biology of Blood and Marrow Transplantation 12 (2), 18, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:F1b5ZUV5XREC"
+  },
+  {
+   "title": "Physician-scientist training. Authors' reply",
+   "year": "2006",
+   "venue": "JAMA, the journal of the American Medical Association 295 (6), 623-624, 2006",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:rbm3iO8VlycC"
+  },
+  {
+   "title": "Detection of Microdeletions and Amplifications in Primary Human Acute Myeloid Leukemia (AML) Genomes Using Ultradense Oligomer Tiling Path Arrays and Comparative Genomic …",
+   "year": "2005",
+   "venue": "Blood 106 (11), 2350, 2005",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:PaBasH6fAo0C"
+  },
+  {
+   "title": "Transcriptome Analysis of Murine Myeloid Development.",
+   "year": "2005",
+   "venue": "Blood, The Journal of the American Society of Hematology 106 (11), 2724-2724, 2005",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LgRImbQfgY4C"
+  },
+  {
+   "title": "Identification of PML-RARa Target Genes Using Microarray and ChIP-on-Chip Analysis.",
+   "year": "2005",
+   "venue": "Blood, The Journal of the American Society of Hematology 106 (11), 2994-2994, 2005",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+   "title": "LA PERSPECTIVE DE CARRIERE DES MEDECINS ET SCIENTIFIQUES EN 2005: LA BATIR ET ILS VIENDRONT",
+   "year": "2005",
+   "venue": "JAMA-français 294 (3), a13, 2005",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jSAVyFp_754C"
+  },
+  {
+   "title": "The Cold-Shock Domain Protein YB-1 Is Important for Cellular Proliferation and the Prevention of Premature Senescence.",
+   "year": "2004",
+   "venue": "Blood, The Journal of the American Society of Hematology 104 (11), 2571-2571, 2004",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:U_HPUtbDl20C"
+  },
+  {
+   "title": "Orphan Granzymes Downstream from Granzyme B Are Important for Tumor Clearance In Vivo and in Vitro.",
+   "year": "2004",
+   "venue": "Blood, The Journal of the American Society of Hematology 104 (11), 2653-2653, 2004",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:KbBQZpvPDL4C"
+  },
+  {
+   "title": "Neutrophil Elastase Is Important for Several Activities of PML-RARα in Early Myeloid Cells.",
+   "year": "2004",
+   "venue": "Blood, The Journal of the American Society of Hematology 104 (11), 486-486, 2004",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:mNrWkgRL2YcC"
+  },
+  {
+   "title": "Leon E. Rosenberg",
+   "year": "2004",
+   "venue": "BRIDGING, 60, 2004",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:PkcyUWeTMh0C"
+  },
+  {
+   "title": "Neutrophil elastase is important for the development of acute promyelocytic leukemia (APL) in mice that express PML-RAR alpha in early myeloid cells.",
+   "year": "2003",
+   "venue": "BLOOD 102 (11), 219A-220A, 2003",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:-jrNzM816MMC"
+  },
+  {
+   "title": "Conditional expression of oncogenic K-ras in mice induces a myeloproliferative disease and cooperates with PML-RAR alpha in development of an acute promyelocytic leukemia-like …",
+   "year": "2003",
+   "venue": "BLOOD 102 (11), 24A-24A, 2003",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:KaMxkj08jr0C"
+  },
+  {
+   "title": "PUA haploinsufficiency cooperates with PML-RAR alpha to increase the penetrance of APL in transgenic mice.",
+   "year": "2003",
+   "venue": "BLOOD 102 (11), 217A-218A, 2003",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:4xDN1ZYqzskC"
+  },
+  {
+   "title": "RED CELLS-Brief report Long targeting arms do not increase the efficiency of homologous recombination in the b-globin locus of murine embryonic stem cells",
+   "year": "2003",
+   "venue": "Blood 102 (4), 1531-1533, 2003",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:hSRAE-fF4OAC"
+  },
+  {
+   "title": "The design and construction of a GMP facility for cellular and gene therapy in an academic center-Implementing new regulatory requirements",
+   "year": "2002",
+   "venue": "BLOOD 100 (11), 421B-421B, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:uVUOdF_882EC"
+  },
+  {
+   "title": "Late embryonic lethality with severe growth retardation in mice deficient for the cold shock domain protein dbpB.",
+   "year": "2002",
+   "venue": "BLOOD 100 (11), 240A-240A, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WC23djZS0W4C"
+  },
+  {
+   "title": "Sublethal irradiation potentiates the development of PML-RAR alpha-driven acute promyelocytic leukemia in mice.",
+   "year": "2002",
+   "venue": "BLOOD 100 (11), 307A-307A, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jgBuDB5drN8C"
+  },
+  {
+   "title": "Debt Repayment for Trainees",
+   "year": "2002",
+   "venue": "New England Journal of Medicine 346 (25), 2014, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+   "title": "PML/RARalpha and FLT3/ITD induce an APL-like disease in a mouse model",
+   "year": "2002",
+   "venue": "EXPERIMENTAL HEMATOLOGY 30 (6), 71-71, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:r_AWSJRzSzQC"
+  },
+  {
+   "title": "Genetic progression factors for murine acute promyelocytic leukemia",
+   "year": "2002",
+   "venue": "EXPERIMENTAL HEMATOLOGY 30 (6), 144-144, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WJVC3Jt7v1AC"
+  },
+  {
+   "title": "Erratum: Mouse models of acute promyelocytic leukemia (Current Opinion in Hematology (July 2001) 8 (206-211))",
+   "year": "2002",
+   "venue": "Current opinion in hematology 9 (2), 179, 2002",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:OR75R8vi5nAC"
+  },
+  {
+   "title": "Granzyme C is a potent pro-apoptotic serine protease made by cytotoxic lymphocytes.",
+   "year": "2001",
+   "venue": "BLOOD 98 (11), 238A-238A, 2001",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:IRz6iEL74y4C"
+  },
+  {
+   "title": "Orphan granzymes downstream from granzyme B are important for graft versus host disease in a complete MHC mismatched murine bone marrow transplantation model.",
+   "year": "2001",
+   "venue": "BLOOD 98 (11), 813A-813A, 2001",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:XvxMoLDsR5gC"
+  },
+  {
+   "title": "CLINICAL OBSERVATIONS, INTERVENTIONS, AND THERAPEUTIC TRIALS-Sudden death among patients with acute promyelocytic leukemia treated with arsenic trioxide",
+   "year": "2001",
+   "venue": "Blood 98 (2), 266-270, 2001",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:MAUkC_7iAq8C"
+  },
+  {
+   "title": "PROTEIN SYNTHESIS, POST-TRANSLATION MODIFICATION, AND DEGRADATION-Dipeptidyl peptidase I is essential for activation of mast cell chymases, but not tryptases, in mice.",
+   "year": "2001",
+   "venue": "Journal of Biological Chemistry 276 (21), 18551-18556, 2001",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:artPoR2Yc-kC"
+  },
+  {
+   "title": "ICAD/DFF45 deficient mice are partially resistant to Fas-mediated apoptosis in vivo.",
+   "year": "2000",
+   "venue": "BLOOD 96 (11), 78A-78A, 2000",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:6ZxmRoH8BuwC"
+  },
+  {
+   "title": "Homologous recombination-mediated correction of globin gene defects: Developing a murine model system and defining the targeting efficiency.",
+   "year": "2000",
+   "venue": "BLOOD CELLS MOLECULES AND DISEASES 26 (5), 521-522, 2000",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:RoXSNcbkSzsC"
+  },
+  {
+   "title": "Immunologic responses directed against acute promyelocytic leukemia (apl) cells",
+   "year": "2000",
+   "venue": "Blood 96 (11 PART II), 215b, 2000",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:6bLC7aUMtPcC"
+  },
+  {
+   "title": "Immunity12, 621-632",
+   "year": "2000",
+   "venue": "Thomas62112Immunity2000, 2000",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:FPJr55Dyh1AC"
+  },
+  {
+   "title": "Improved outcome following pharmacologic therapy for acute promyelocytic leukemia (APML) in immunocompetent vs. immunodeficient (SCID) mice.",
+   "year": "1999",
+   "venue": "BLOOD 94 (10), 506A-506A, 1999",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:kWvqk_afx_IC"
+  },
+  {
+   "title": "Deletion within the mouse beta-globin LCR preferentially reduce beta minor globin gene expression.",
+   "year": "1999",
+   "venue": "BLOOD 94 (10), 205A-205A, 1999",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Br1UauaknNIC"
+  },
+  {
+   "title": "Direct processing of the inhibitor of caspase associated DNase (ICAD/DFF45) during granzyme B induced apoptosis.",
+   "year": "1999",
+   "venue": "BLOOD 94 (10), 687A-687A, 1999",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:MhiOAD_qIWkC"
+  },
+  {
+   "title": "Blood94, 3178-3184",
+   "year": "1999",
+   "venue": "Kaufman317894Blood1999, 1999",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Ri6SYOTghG4C"
+  },
+  {
+   "title": "PML oncogenic domains (PODs) are not disrupted in transgenic mice expressing PML/RAR alpha until the mice develop acute promyelocytic leukemia.",
+   "year": "1998",
+   "venue": "BLOOD 92 (10), 212A-212A, 1998",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:NDuN12AVoxsC"
+  },
+  {
+   "title": "Dipeptidyl peptidase I plays an essential role in granzyme processing and activation.",
+   "year": "1998",
+   "venue": "BLOOD 92 (10), 340A-340A, 1998",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:48xauSegjOkC"
+  },
+  {
+   "title": "Murine embryonic stem cells containing the human beta globin gene locus: A model of hemoglobin switching.",
+   "year": "1998",
+   "venue": "BLOOD 92 (10), 530A-530A, 1998",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:jL-93Qbq4QoC"
+  },
+  {
+   "title": "Proof of principle for the control of GVHD using novel fusion suicide genes: Transgenic murine models.",
+   "year": "1998",
+   "venue": "BLOOD 92 (10), 436A-436A, 1998",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+   "title": "Part I. Globin Gene Expression and Regulation-A. Cis Control-Reduced b-Globin Gene Expression in Adult Mice Containing Deletions of Locus Control Region 5'HS-2 or 5'HS-3",
+   "year": "1998",
+   "venue": "Annals of the New York Academy of Sciences-Paper Edition 850, 45-53, 1998",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:PVgj2kMGcgYC"
+  },
+  {
+   "title": "Transgenic mice carrying the human beta globin gene cluster generated from a 100 kb bacterial artificial chromosome (BAC) DNA fragment.",
+   "year": "1997",
+   "venue": "BLOOD 90 (10), 1223-1223, 1997",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:wMgC3FpKEyYC"
+  },
+  {
+   "title": "Variegation of expression in transgenic mice is predominantly due to stochastic mechanisms.",
+   "year": "1997",
+   "venue": "BLOOD 90 (10), 1808-1808, 1997",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:sJsF-0ZLhtgC"
+  },
+  {
+   "title": "Distinct effector pathways are utilized by CD8 (+) and CD4 (+) CTL in murine acute GVHD.",
+   "year": "1996",
+   "venue": "BLOOD 88 (10), 2695-2695, 1996",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:L1USKYWJimsC"
+  },
+  {
+   "title": "Perform and granzyme B are not required for peripheral blood stem cell mobilization.",
+   "year": "1996",
+   "venue": "BLOOD 88 (10), 2395-2395, 1996",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:5icHVeHT4IsC"
+  },
+  {
+   "title": "Cathepsin G deficient mice have a defect in neutrophil chemotaxis.",
+   "year": "1996",
+   "venue": "BLOOD 88 (10), 2480-2480, 1996",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yMeIxYmEMEAC"
+  },
+  {
+   "title": "Long range''neighborhood''effects of a PGK-Neo cassette multigene loci",
+   "year": "1996",
+   "venue": "ARTHRITIS AND RHEUMATISM 39 (9), 1698-1698, 1996",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:mKu_rENv82IC"
+  },
+  {
+   "title": "Targeted deletion of 5'HS sites of the beta-globin locus control region",
+   "year": "1995",
+   "venue": "BLOOD 86 (10), 2338-2338, 1995",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:yxmsSjX2EkcC"
+  },
+  {
+   "title": "The 5'flanking region of the human granzyme (GZM) H gene specifically targets expression of SV40 large T-antigen (TAg) to the natural killer (NK) lymphokine activated killer …",
+   "year": "1995",
+   "venue": "BLOOD 86 (10), 1759-1759, 1995",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Ak0FvsSvgGUC"
+  },
+  {
+   "title": "The macrophages of metalloelastase-deficient mice have markedly decreased proteolytic capacity.",
+   "year": "1995",
+   "venue": "BLOOD 86 (10), 1023-1023, 1995",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:HtS1dXgVpQUC"
+  },
+  {
+   "title": "GRANZYME B-DEFICIENT LYMPHOCYTES HAVE DIMINISHED CYTOTOXICITY IN A MURINE BONE-MARROW TRANSPLANT",
+   "year": "1994",
+   "venue": "BLOOD 84 (10), A494-A494, 1994",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:ZzlSgRqYykMC"
+  },
+  {
+   "title": "DEVELOPMENT OF LEUKEMIA IN MICE TRANSGENIC FOR THE TAX GENE OF HTLV-1",
+   "year": "1994",
+   "venue": "BLOOD 84 (10), A247-A247, 1994",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:mlAyqtXpCwEC"
+  },
+  {
+   "title": "NATURAL-KILLER (NK) AND LYMPHOKINE-ACTIVATED KILLER (LAK) CELLS REQUIRE GRANZYME-B FOR THE RAPID INDUCTION OF APOPTOSIS IN TARGET-CELLS",
+   "year": "1994",
+   "venue": "BLOOD 84 (10), A109-A109, 1994",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+   "title": "INTERACTION OF A HUMAN COLD SHOCK DNA-BINDING PROTEIN WITH A SECONDARY DNA-STRUCTURE UPSTREAM FROM THE HUMAN GAMMA-GLOBIN GENES",
+   "year": "1993",
+   "venue": "BLOOD 82 (10), A434-A434, 1993",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:sszUF3NjhM4C"
+  },
+  {
+   "title": "GENERATION OF MICE DEFICIENT IN THE CYTOTOXIC LYMPHOCYTE SERINE-PROTEASE, GRANZYME-B",
+   "year": "1993",
+   "venue": "BLOOD 82 (10), A243-A243, 1993",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:otzGkya1bYkC"
+  },
+  {
+   "title": "Division of Hematology-Oncology",
+   "year": "1991",
+   "venue": "The Regulation of Hemoglobin Switching, 138, 1991",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:a3BOlSfXSfwC"
+  },
+  {
+   "title": "Regulatory Regions Flanking the Human Fetal γ‐Globin Genes",
+   "year": "1989",
+   "venue": "Annals of the New York Academy of Sciences 565 (1), 13-22, 1989",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LhH-TYMQEocC"
+  },
+  {
+   "title": "DEVELOPMENTAL REGULATION OF THE HUMAN CATHEPSIN-G (CG) GENE",
+   "year": "1989",
+   "venue": "CLINICAL RESEARCH 37 (2), A381-A381, 1989",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:F2UWTTQJPOcC"
+  },
+  {
+   "title": "GAMMA-GLOBIN PROMOTER FUNCTION IN K562 CELLS",
+   "year": "1989",
+   "venue": "CLINICAL RESEARCH 37 (2), A390-A390, 1989",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:nRpfm8aw39MC"
+  },
+  {
+   "title": "TRANSCRIPTIONAL CONTROL OF COLLAGENASE AND TIMP PRODUCTION BY THE HUMAN MONOCYTIC CELL-LINE U937",
+   "year": "1989",
+   "venue": "JOURNAL OF INVESTIGATIVE DERMATOLOGY 92 (3), 516-516, 1989",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+   "title": "X13890, X13892-X13893",
+   "year": "1989",
+   "venue": "Nucl. Acids Res 17, 7515-7515, 1989",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:BJbdYPG6LGMC"
+  },
+  {
+   "title": "Lessons from In Vitro Culture Systems",
+   "year": "1988",
+   "venue": "Regulation of Erythropoiesis, 111, 1988",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:nWoA1JPTheMC"
+  },
+  {
+   "title": "PROSPECTS FOR THERAPEUTIC MANIPULATION OF HUMAN GENE",
+   "year": "1985",
+   "venue": "Principles and Techniques of Human Research and Therapeutics, Selected …, 1985",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:rLGzs9wiiwIC"
+  },
+  {
+   "title": "C-FGR PROTO-ONCOGENE MESSENGER-RNA IS INDUCED BY EPSTEIN-BARR VIRUS-INFECTION",
+   "year": "1985",
+   "venue": "ANTICANCER RESEARCH 5 (6), 629-629, 1985",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:0CzhzZyukY4C"
+  },
+  {
+   "title": "iSMhalassemias are those in which a single nucleotide (nt) substitution introduces a premature translation termination codon in the coding sequences of/3-globin mRNA.\" l7 No …",
+   "year": "1984",
+   "venue": "blood the journal of the american society of hematology 64 (1), 23-32, 1984",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:HGTzPopzzJcC"
+  },
+  {
+   "title": "PROCESSING OF HUMAN BETA-GLOBULIN BY INTRON-1 AND INTRON-2 IN NORMAL AND BETA-THALASSEMIC SUBJECTS",
+   "year": "1983",
+   "venue": "HAEMATOLOGICA 68 (3), 435-435, 1983",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:FiDNX6EVdGUC"
+  },
+  {
+   "title": "RNA PROCESSING ERRORS IN PATIENTS WITH BETA-THALASSEMIA (SI NUCLEASE MAPPING/M13 PHAGE/SPLICING)",
+   "year": "1982",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:z6xuaG2dYH0C"
+  },
+  {
+   "title": "IDENTIFICATION OF DEFECTIVE GLOBIN mRNA IN MEL× FIBROBLAST HYBRID CELLS",
+   "year": "1982",
+   "venue": "From Gene to Protein: Translation Into Biotechnology, 561, 1982",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Ade32sEp0pkC"
+  },
+  {
+   "title": "Molecular defects in beta-thalassemia.",
+   "year": "1982",
+   "venue": "Birth Defects Original Article Series 18 (7), 69-79, 1982",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+   "title": "Proteomic and Phosphoproteomic Landscapes of Acute Myeloid Leukemia",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Vno172sVVMwC"
+  },
+  {
+   "title": "Mechanisms of Transformation Caused by AML-Associated Missense  MYC Mutations",
+   "year": "",
+   "venue": "MYC, 0",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:VRfTbSk87rEC"
+  },
+  {
+   "title": "Analgesics and NSAID. Molecular genetics. Methods for evaluating psychotherapeutic drugs",
+   "year": "",
+   "venue": "(No Title), 0",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:WWeOtg8bX_EC"
+  },
+  {
+   "title": "Abrahams E Angrist M Anonymous AML patient Arbanas C",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:wyM6WWKXmoIC"
+  },
+  {
+   "title": "DGIdb–Mining the druggable genome for personalized medicine",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:-DxkuPiZhfEC"
+  },
+  {
+   "title": "Orientation welcomes new students",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:U4n9YNQMCAIC"
+  },
+  {
+   "title": "Chemosensitization of AML following mobilization by the CXCR4",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:1lhNe0rCu4AC"
+  },
+  {
+   "title": "Automated Profiling of Small RNA Molecules in Acute Myeloid Leukemia Using High-Throughput Next Generation Sequencing",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:uDGL6kOW6j0C"
+  },
+  {
+   "title": "Chiang, YL, Haidaris, D., Anagnou, N., Wilson, V. L. & Anderson, WF (1984)",
+   "year": "",
+   "venue": "Proc. Nut1 Acad. Sci. USA 81, 0",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:LjlpjdlvIbIC"
+  },
+  {
+   "title": "The role of granzyme B in murine models of acute graft-versus-host disease and graft rejection. Blood [Internet]. American Society of Hematology; 1996 Feb 15 [cited 2016 May 5 …",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:qxL8FJ1GzNcC"
+  },
+  {
+   "title": "Matthew J. Walter, MD Bio500 abstract Research Abstract",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:Se3iqnhoufwC"
+  },
+  {
+   "title": "Functional Properties of the P-Globin Locus Control Region in K562 Erythroleukemia Cells",
+   "year": "",
+   "venue": "",
+   "num_citations": 0,
+   "author_pub_id": "b9C-eUQAAAAJ:u-x6o8ySG0sC"
+  }
+ ]
+}

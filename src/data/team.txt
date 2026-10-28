@@ -1,0 +1,59 @@
+# Ley Lab roster.  Hand-edit this file, then run `python3 build.py`.
+#
+# Format: one person per line, fields separated by " | " (pipe).
+# Blank lines and lines starting with # are ignored.
+#
+# MEMBERS block (before the === ALUMNI === marker):
+#   name | title | photo | match | email | scholar | github | website
+#     - photo:  filename in src/assets/img/  (use photo.jpg as a placeholder)
+#     - match:  PubMed author form, e.g. "Miller CA".  Used to build that person's
+#               publications sub-page by substring match against the author list.
+#               Leave EMPTY to skip the per-person page (common names, staff, etc.).
+#     - email / scholar / github / website: optional; leave blank to omit the icon.
+#   The FIRST member line is rendered as the PI (large card at the top).
+#
+# ALUMNI block (after the === ALUMNI === marker):
+#   name | years | current position | link
+#     - years / current position: optional; leave blank to omit.
+#     - link: optional URL; when present the name links to it.
+#
+# ---------------------------------------------------------------------------
+
+Timothy J. Ley, MD | Principal Investigator | tim-ley.jpg | Ley TJ | | https://scholar.google.com/citations?hl=en&user=b9C-eUQAAAAJ | |
+Rachel Baits | Graduate Student | photo.jpg | | | | |
+Michael Bern, MD | Clinical Fellow | photo.jpg | Bern M | | | |
+David Bernal | | photo.jpg | | | | |
+Rebecca Cunningham, MD, PhD | Fellow | photo.jpg | | | | | https://hemeoncfellowship.wustl.edu/people/rebecca-cunningham-md-phd/
+Dan George | Research Technician | photo.jpg | | | | |
+Nichole Helton | Research Technician | photo.jpg | Helton N | | | |
+Mike Kramer, MD, PhD | Clinical Fellow | mike-kramer.jpg | Kramer M | | | |
+PJ Kresloff | | photo.jpg | | | | |
+Chris Miller | Faculty | chris-miller.jpg | Miller CA | c.a.miller@wustl.edu | https://scholar.google.com/citations?user=0ryVFl8AAAAJ | chrisamiller | https://chrismiller.science
+Campbell Tucker-Hill | | photo.jpg | | | | |
+
+=== ALUMNI ===
+
+Ryan Day, PhD | | Faculty at WUSTL | https://oncology.wustl.edu/people/ryan-b-day-md-phd/
+Casey Katerndahl, PhD | | Faculty at Indiana University School of Medicine | https://medicine.iu.edu/faculty-labs/katerndahl
+Haley Abel, PhD | |
+Julia Hickman | | 
+Yang Li, PhD | | |
+Kevin (Tiankai) Yin | | |
+Sai Mukund Ramakrishnan | | |
+Payton Redemer | | |
+Brady Maher | | |
+Alice Lo | | |
+David Chen | | |
+Amanda Smith | | |
+Allegra Petti | | |
+Leslie Sutton | | |
+Taylor LaValle | | |
+Mieke Hoock | | |
+Shamika Ketkar | | |
+Francesca Ferraro | | |
+David Spencer | | |
+Jeff Klco | | |
+Michelle Cai | | |
+Olivia R S Rogers | | |
+Keegan A Christensen | | |
+Stephanie N Richardson | | |

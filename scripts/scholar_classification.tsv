@@ -1,0 +1,69 @@
+# Manual review of Google Scholar "Other"-bucket items (from conflicts.md).
+# author_pub_id <TAB> decision <TAB> note
+#
+# Columns are TAB-separated: author_pub_id <TAB> decision <TAB> [DOI] <TAB> [note]
+# decision:
+#   abstract  -> add to publications.json as kind=abstract
+#   other     -> add to publications.json as kind=other (errata / author corrections)
+#   ignore    -> suppress from future conflicts.md (patents, junk, dupes, non-scholarly)
+#   leave     -> keep showing in conflicts.md for a later review pass (the default;
+#                only listed here when overriding a bucket default)
+# An optional DOI in column 3 is fetched directly instead of matching by title.
+#
+# Meeting-abstract-bucket items and patents are handled automatically and don't
+# need a line here.
+
+# --- author corrections ---
+# the two PCAWG Nature corrections are pulled in via `include` lines in
+# src/data/pubmed_overrides.txt (PMIDs 36697834 / 36697832); listed here as ignore
+# so they don't re-appear in conflicts.md before that runs.
+b9C-eUQAAAAJ:uUvzmPk0f8oC	ignore	10.1038/s41586-022-05598-w	Author Correction: Pan-cancer analysis of whole genomes — via pubmed_overrides include 36697834
+b9C-eUQAAAAJ:inmFHauC9wsC	ignore	10.1038/s41586-022-05599-9	Author Correction: Analyses of non-coding somatic drivers — via pubmed_overrides include 36697832
+b9C-eUQAAAAJ:jE2MZjpN3IcC	other	10.1001/jama.2011.1109	Whole-Genome Sequencing and APL — Reply (JAMA 2011, no PMID)
+
+# --- conference abstracts hiding in the "Other" bucket ---
+b9C-eUQAAAAJ:V_vSwabWVtYC	abstract	scRNA-seq post-transplant relapse in AML (OSF 2020 poster)
+b9C-eUQAAAAJ:QUX0mv85b1cC	abstract	1336 DNMT3A required for epidermal homeostasis (JID suppl)
+b9C-eUQAAAAJ:LdasjJ6CEcoC	abstract	680 DNMT3A mutation causes reversible alopecia (JID suppl)
+b9C-eUQAAAAJ:hvmnpdAuIbkC	abstract	Genomics and Clonal Evolution of AML (2018 BMT Tandem Meetings)
+b9C-eUQAAAAJ:jFemdcug13IC	abstract	Cytotoxic therapy fitness advantage to TP53-mutant HSPCs (EMM suppl)
+b9C-eUQAAAAJ:6yz0xqPARnAC	abstract	UTX/KDM6A + KRAS lung carcinogenesis (IJROBP suppl)
+b9C-eUQAAAAJ:Bg7qf7VwUHIC	abstract	Recurrent CNAs in targeted AML sequencing panels (J Mol Diagn suppl)
+b9C-eUQAAAAJ:QD3KBmkZPeQC	abstract	The AML Genome(s) (Exp Hematol suppl)
+b9C-eUQAAAAJ:umqufdRvDiIC	abstract	242 Genomics of myelodysplastic syndromes (Leuk Res suppl)
+b9C-eUQAAAAJ:owLR8QvbtFgC	abstract	Cryptic Insertional PML-RARA Translocations (Lab Invest suppl)
+b9C-eUQAAAAJ:43bX7VzcjpAC	abstract	Discovery of novel mutations in MDS/AML by WGS (Ann Hematol suppl)
+b9C-eUQAAAAJ:WF5omc3nYNoC	abstract	Genome-wide map of mouse DNA CNVs (Cell Oncol suppl)
+b9C-eUQAAAAJ:WJVC3Jt7v1AC	abstract	Genetic progression factors for murine APL (Exp Hematol suppl)
+b9C-eUQAAAAJ:mKu_rENv82IC	abstract	Long-range neighborhood effects of a PGK-Neo cassette (ACR suppl)
+b9C-eUQAAAAJ:F2UWTTQJPOcC	abstract	Developmental regulation of the human cathepsin G gene (Clin Res suppl)
+b9C-eUQAAAAJ:nRpfm8aw39MC	abstract	Gamma-globin promoter function in K562 cells (Clin Res suppl)
+b9C-eUQAAAAJ:Tyk-4Ss8FVUC	abstract	Transcriptional control of collagenase/TIMP in U937 (JID suppl)
+b9C-eUQAAAAJ:J_g5lzvAfSwC	abstract	Human fetal globin promoter in HPFH (Clin Res suppl)
+
+# --- ignore: not Ley / junk / duplicates / repository cover sheets / non-scholarly ---
+b9C-eUQAAAAJ:8VtEwCQfWZkC	ignore	French geography thesis (Université de Perpignan) — not this Ley
+b9C-eUQAAAAJ:kUhpeDhEZMUC	ignore	"Please let us know how this document benefits you" — repository cover sheet
+b9C-eUQAAAAJ:as0KMg8qHbkC	ignore	"Please let us know how this document benefits you" — repository cover sheet
+b9C-eUQAAAAJ:d4tt_xEv1X8C	ignore	duplicate of the Pan-cancer Author Correction (uUvzmPk0f8oC)
+b9C-eUQAAAAJ:T8_be82Iz5gC	ignore	DKFZ repository copy of the published PCAWG Nature paper (already in list)
+b9C-eUQAAAAJ:SIv7DqKytYAC	ignore	bioRxiv 434746 — preprint of Petti et al. Nat Commun 2019 (already in list)
+b9C-eUQAAAAJ:hHIA4WEVY-EC	ignore	"All Publications" — junk
+b9C-eUQAAAAJ:KTwcwpFFj4wC	ignore	NIH physician-scientist workforce working-group report — not a scholarly pub
+b9C-eUQAAAAJ:CMvovTBb2okC	ignore	"NEWS & VIEWS – Research Highlights" — news item, garbled record
+b9C-eUQAAAAJ:rFyVMFCKTwsC	ignore	"AML patient genome interview" (Personalized Medicine) — an interview
+b9C-eUQAAAAJ:cNe27ouKFcQC	ignore	duplicate of Physician-scientist training (L8Ckcad2t8MC)
+b9C-eUQAAAAJ:jSAVyFp_754C	ignore	French translation of a JAMA physician-scientist commentary
+b9C-eUQAAAAJ:PkcyUWeTMh0C	ignore	"Leon E. Rosenberg" (BRIDGING, 60) — tribute fragment
+b9C-eUQAAAAJ:FPJr55Dyh1AC	ignore	"Immunity12, 621-632" — citation-string fragment
+b9C-eUQAAAAJ:a3BOlSfXSfwC	ignore	"Division of Hematology-Oncology" — book fragment
+b9C-eUQAAAAJ:BJbdYPG6LGMC	ignore	"X13890, X13892-X13893" — GenBank accession fragment
+b9C-eUQAAAAJ:nWoA1JPTheMC	ignore	duplicate fragment of HeT0ZceujKMC
+b9C-eUQAAAAJ:natZJ_-F0IUC	ignore	"Analgesics and NSAID" (Futura Pub Co) — not Ley
+b9C-eUQAAAAJ:JP7YXuLIOvAC	ignore	duplicate of the 1983 PNAS "Silent substitution" paper (3htObqc8RwsC)
+b9C-eUQAAAAJ:lSLTfruPkqcC	ignore	garbled citation string of Heusel et al. Cell 1994 (already in list)
+b9C-eUQAAAAJ:WWeOtg8bX_EC	ignore	"Analgesics and NSAID. Molecular genetics..." — junk
+b9C-eUQAAAAJ:wyM6WWKXmoIC	ignore	"Abrahams E Angrist M Anonymous AML patient Arbanas C" — index fragment
+b9C-eUQAAAAJ:U4n9YNQMCAIC	ignore	"Orientation welcomes new students" — newspaper item
+b9C-eUQAAAAJ:1lhNe0rCu4AC	ignore	truncated dup of the 2009 Blood chemosensitization/AMD3100 paper (already in list)
+b9C-eUQAAAAJ:LjlpjdlvIbIC	ignore	"Chiang, YL, Haidaris, D., ..." — citation fragment, not Ley

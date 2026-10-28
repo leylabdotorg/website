@@ -1,0 +1,34 @@
+# Manual corrections for the auto-generated publication list.
+# Hand-edit this file, then run `python3 update_publications.py`.
+#
+# Blank lines and lines starting with # are ignored. One directive per line.
+# The <id> is a PubMed ID, or a bare DOI (e.g. 10.1182/blood-2024-199837) for
+# meeting abstracts and other records that have no PMID.
+#
+#   exclude <id>              drop this record entirely (wrong "Ley TJ", etc.)
+#   include <pmid>            add this PubMed record even if the author search missed it
+#   kind <id> <kind>          force classification; <kind> is publication | abstract | other
+#
+# How records are classified automatically:
+#   - PubMed:   erratum / correction / retraction / comment / editorial -> "other";
+#               "abstract" / "corrigendum" in the title, or a Congress type -> "abstract";
+#               everything else -> "publication".
+#   - OpenAlex: type "conference-abstract" (ASH, AACR, ASCO meeting abstracts that
+#               PubMed doesn't index) -> "abstract";  type "erratum" -> "other".
+#
+# Only "publication" shows by default on the site; the Abstracts and Other buttons
+# on the Publications page reveal the rest.
+#
+# ---------------------------------------------------------------------------
+
+# exclude 10.1158/1538-7445.am2015-169     # not actually a Ley-lab abstract
+# kind 12345678 abstract
+
+include 29628290    # The immune landscape of cancer (Immunity 2018) — Ley is a TCGA consortium investigator, not a bylined author, so the author search misses it
+include 36697834    # Author Correction: Pan-cancer analysis of whole genomes (Nature 2023) -> auto-classified "other"
+include 36697832    # Author Correction: Analyses of non-coding somatic drivers in 2,658 cancer whole genomes (Nature 2023) -> "other"
+
+# Early Ley papers bylined "Ley T" (not "Ley TJ"), so the author search misses them:
+include 2579100     # 5-Azacytidine acts directly on both erythroid precursors and progenitors... (J Clin Invest 1985)
+include 6290076     # Differences in human alpha-, beta- and delta-globin gene expression in monkey kidney cells (Cell 1982)
+include 6572978     # "Silent" nucleotide substitution in a beta+-thalassemia globin gene activates splice site... (PNAS 1983)

@@ -1,0 +1,20 @@
+<p style="margin-bottom: var(--space-4);"><a href="team.html">&larr; Back to Team</a></p>
+
+<div class="section-card">
+<div class="pi-card">
+<img src="assets/img/{{ member_photo }}" class="pi-photo" alt="{{ member_name }}" loading="lazy">
+<div>
+<h2 class="pi-name" style="margin-bottom: var(--space-1);">{{ member_name }}</h2>
+<p style="font-style: italic; color: var(--text-secondary); margin: 0;">{{ member_title }}</p>
+<div class="pi-links" style="margin-top: var(--space-3);">
+{{ member_links }}
+</div>
+</div>
+</div>
+</div>
+
+<div class="section-card">
+<h3 style="margin-top: 0;">Publications</h3>
+<p class="member-note">Automatically compiled from the lab's publication list by matching author name; may be incomplete or include name collisions.</p>
+{{ member_publications }}
+</div>

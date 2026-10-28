@@ -1,6 +1,0 @@
-manubot @ git+https://github.com/manubot/manubot.git@6e6f6a5aac381120faf3ef02e594b5babc77da2b
-PyYAML==6.0.*
-diskcache==5.4.*
-rich==12.6.*
-python-dotenv==0.21.*
-google-search-results==2.4.*

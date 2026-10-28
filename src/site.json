@@ -1,0 +1,33 @@
+{
+  "name": "The Ley Lab",
+  "short_name": "Ley Lab",
+  "title": "Section of Stem Cell Biology, Division of Oncology",
+  "institution": "Washington University School of Medicine",
+  "email": "brittniblack@wustl.edu",
+  "url": "https://leylab.org",
+  "photo": "tim-ley.jpg",
+  "description": "The Ley Lab studies the genomics, epigenomics, and molecular mechanisms that drive acute myeloid leukemia (AML) at Washington University School of Medicine.",
+  "accent": "#8a1f2d",
+  "accent_hover": "#6f1923",
+  "address_lines": ["629 Southwest Tower", "Division of Oncology, Campus Box 8007", "660 South Euclid Avenue", "St. Louis, MO 63110"],
+  "phone": "314-362-8831",
+  "lab_phone": "314-362-8832",
+  "fax": "314-362-9333",
+  "admin_name": "Brittni Canella",
+  "admin_email": "brittniblack@wustl.edu",
+  "societies": [],
+  "pi_name": "Timothy J. Ley, MD",
+  "pi_profile": "https://oncology.wustl.edu/people/timothy-j-ley-md/",
+  "nav": [
+    { "id": "home",         "label": "Home",         "file": "index.html" },
+    { "id": "publications", "label": "Publications", "file": "publications.html" },
+    { "id": "team",         "label": "Team",         "file": "team.html" }
+  ],
+  "socials": [
+    { "id": "email",   "label": "Email",          "icon": "fa-solid fa-envelope", "href": "mailto:brittniblack@wustl.edu" },
+    { "id": "scholar", "label": "Google Scholar", "icon": "ai ai-google-scholar", "href": "https://scholar.google.com/citations?hl=en&user=b9C-eUQAAAAJ" },
+    { "id": "orcid",   "label": "ORCID",          "icon": "ai ai-orcid",          "href": "https://orcid.org/0000-0001-8713-9213" },
+    { "id": "wustl",   "label": "WashU Oncology profile", "icon": "fa-solid fa-building-columns", "href": "https://oncology.wustl.edu/people/timothy-j-ley-md/" },
+    { "id": "github",  "label": "GitHub",         "icon": "fa-brands fa-github",  "href": "", "disabled": true }
+  ]
+}
